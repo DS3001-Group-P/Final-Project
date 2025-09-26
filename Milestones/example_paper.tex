@@ -120,7 +120,8 @@ The data set contains more variables than we require for our analysis and answer
 
 \subsection{\textbf{Data Cleaning}}
 
-Several methods can be used to wrangle and tidy data that is affected by these imperfections. Several packages, including pandas, numpy, seaborn, and matplotlib, will all be essential for our wrangling, tidying, and analysis to take place. Specifically, functions such as df.dropna() (to drop missing values), .str.strip() (to remove spaces), and .str.lower() (to correct lower case letters) will be needed. However, for these things to be carried out, we will first need to coerce them as strings so that they are read correctly and so we can perform the desired operations on them.
+Several methods can be used to wrangle and tidy data that is affected by these imperfections. Several packages, including pandas, numpy, seaborn, and matplotlib, will all be essential for our wrangling, tidying, and analysis to take place. At the highest level, we’ll need to drop several columns and leave only the ones we want to use for our analysis. We can accomplish this by using the df.drop(columns=[...]) function in pandas. As for cleaning the individual observations, functions such as df.dropna() (to drop missing values), .str.strip() (to remove spaces), and .str.lower() (to correct lower case letters) will be needed. However, for these things to be carried out, we will first need to coerce them as strings so that they are read correctly and so we can perform the desired operations on them.
+
 
 
 \textbf{}
