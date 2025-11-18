@@ -19,3 +19,4 @@ data_cleaned['Sex_M'] = data_cleaned['Sex_M'].astype('int64')
 
 data_cleaned.to_csv('/workspaces/Final-Project/code/CVD_Cleaned.csv', index=False)
 
+print(data_cleaned.head(5))
