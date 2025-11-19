@@ -1,1307 +1,1452 @@
-Age,Sex,Systolic BP,Diastolic BP,Blood Pressure Category
-32,F,125,79,Elevated
-55,F,139,70,High (Stage 1)
-44,M,140,83,High (Stage 1)
-32,F,144,83,High (Stage 1)
-58,F,142,90,High (Stage 2)
-33,M,96,63,Normal
-55,M,115,73,Normal
-58,F,133,83,High (Stage 1)
-38,F,129,87,High (Stage 1)
-32,F,134,91,High (Stage 1)
-48,M,102,63,Normal
-38,M,142,92,High (Stage 2)
-58,M,101,64,Normal
-38,M,101,67,Normal
-41,F,138,99,High (Stage 1)
-57,M,129,100,High (Stage 2)
-41,F,138,96,High (Stage 1)
-48,F,95,92,High (Stage 2)
-40,F,132,92,High (Stage 1)
-39,F,120,89,High (Stage 1)
-35,F,102,74,Normal
-36,M,98,99,High (Stage 2)
-53,F,137,70,High (Stage 1)
-47,M,128,66,Elevated
-55,M,97,63,Normal
-30,M,91,95,High (Stage 2)
-58,F,97,75,Normal
-31,F,109,64,Normal
-55,M,106,87,High (Stage 1)
-37,M,100,83,High (Stage 1)
-32,M,122,84,High (Stage 1)
-32,F,99,99,High (Stage 2)
-42,F,144,73,High (Stage 2)
-46,M,134,64,High (Stage 1)
-51,F,116,61,Normal
-43,F,105,64,Normal
-44,F,129,78,Elevated
-31,F,129,75,Elevated
-48,F,110,74,Normal
-34,M,120,77,Elevated
-41,M,145,84,High (Stage 1)
-56,M,97,73,Normal
-50,F,148,92,High (Stage 2)
-52,F,139,66,High (Stage 1)
-43,M,94,81,High (Stage 1)
-37,F,104,60,Normal
-51,F,129,71,Elevated
-44,F,98,73,Normal
-46,F,129,78,Elevated
-53,F,149,84,High (Stage 1)
-56,F,103,98,High (Stage 2)
-43,M,99,92,High (Stage 2)
-40,M,114,91,High (Stage 2)
-51,F,116,64,Normal
-52,F,93,65,Normal
-55,F,113,63,Normal
-58,M,142,69,High (Stage 2)
-37,F,140,68,High (Stage 2)
-55,M,102,79,Normal
-51,M,96,65,Normal
-57,F,101,81,High (Stage 1)
-44,M,112,83,High (Stage 1)
-38,M,93,67,Normal
-51,F,98,63,Normal
-43,F,120,74,Elevated
-49,M,90,95,High (Stage 2)
-60,M,94,78,Normal
-37,M,127,96,High (Stage 2)
-52,F,120,87,High (Stage 1)
-37,F,99,90,High (Stage 2)
-57,M,114,63,Normal
-56,M,132,97,High (Stage 1)
-32,M,111,68,Normal
-58,F,97,69,Normal
-37,F,120,71,Elevated
-40,F,130,97,High (Stage 1)
-58,M,119,65,Normal
-59,F,120,96,High (Stage 2)
-60,F,145,84,High (Stage 1)
-40,F,111,93,High (Stage 2)
-48,F,105,100,High (Stage 2)
-40,F,100,91,High (Stage 2)
-48,M,98,64,Normal
-37,M,135,80,High (Stage 1)
-40,F,124,72,Elevated
-32,F,127,98,High (Stage 2)
-56,M,90,78,Normal
-57,M,103,96,High (Stage 2)
-51,F,103,81,High (Stage 1)
-48,M,111,98,High (Stage 2)
-53,F,130,97,High (Stage 1)
-41,F,92,73,Normal
-33,M,99,97,High (Stage 2)
-59,F,107,67,Normal
-42,F,137,68,High (Stage 1)
-46,F,104,81,High (Stage 1)
-40,M,90,67,Normal
-49,M,122,88,High (Stage 1)
-30,F,133,97,High (Stage 1)
-39,F,135,100,High (Stage 1)
-50,F,117,97,High (Stage 2)
-50,M,103,96,High (Stage 2)
-59,M,117,61,Normal
-60,F,108,81,High (Stage 1)
-40,F,94,92,High (Stage 2)
-52,F,137,82,High (Stage 1)
-45,M,128,91,High (Stage 2)
-49,F,94,79,Normal
-45,M,149,66,High (Stage 2)
-37,F,135,77,High (Stage 1)
-34,F,100,76,Normal
-31,M,95,84,High (Stage 1)
-31,F,110,83,High (Stage 1)
-59,M,92,90,High (Stage 2)
-54,M,111,94,High (Stage 2)
-34,F,107,66,Normal
-35,M,98,72,Normal
-31,F,150,96,High (Stage 2)
-31,M,96,69,Normal
-59,F,130,95,High (Stage 1)
-33,M,140,85,High (Stage 1)
-54,F,138,73,High (Stage 1)
-52,F,101,82,High (Stage 1)
-54,M,126,64,Elevated
-53,F,135,82,High (Stage 1)
-33,M,116,93,High (Stage 2)
-38,F,117,93,High (Stage 2)
-51,M,105,64,Normal
-51,M,97,84,High (Stage 1)
-54,F,145,96,High (Stage 2)
-45,M,98,60,Normal
-50,M,91,79,Normal
-59,F,147,82,High (Stage 1)
-48,M,119,81,High (Stage 1)
-45,F,136,61,High (Stage 1)
-35,M,97,79,Normal
-53,M,140,86,High (Stage 1)
-33,M,121,67,Elevated
-32,F,150,84,High (Stage 1)
-48,F,119,92,High (Stage 2)
-55,F,144,72,High (Stage 2)
-31,M,144,70,High (Stage 2)
-33,F,137,64,High (Stage 1)
-30,F,124,76,Elevated
-48,F,142,79,High (Stage 2)
-53,F,92,84,High (Stage 1)
-33,F,125,73,Elevated
-38,M,146,73,High (Stage 2)
-54,F,119,89,High (Stage 1)
-56,M,133,65,High (Stage 1)
-37,M,118,89,High (Stage 1)
-59,F,118,89,High (Stage 1)
-39,F,141,69,High (Stage 2)
-49,F,102,63,Normal
-36,M,130,71,High (Stage 1)
-39,M,111,84,High (Stage 1)
-43,M,107,61,Normal
-44,M,133,77,High (Stage 1)
-60,M,112,91,High (Stage 2)
-47,M,90,92,High (Stage 2)
-32,M,133,70,High (Stage 1)
-30,F,117,62,Normal
-43,M,141,65,High (Stage 2)
-42,M,113,94,High (Stage 2)
-46,F,122,80,High (Stage 1)
-35,M,97,64,Normal
-31,M,144,74,High (Stage 2)
-43,M,130,73,High (Stage 1)
-40,M,121,83,High (Stage 1)
-42,M,118,84,High (Stage 1)
-30,M,139,76,High (Stage 1)
-51,M,118,61,Normal
-51,F,91,64,Normal
-31,M,114,92,High (Stage 2)
-38,M,110,81,High (Stage 1)
-58,F,107,88,High (Stage 1)
-40,M,90,72,Normal
-35,F,149,68,High (Stage 2)
-43,M,90,80,High (Stage 1)
-56,F,135,61,High (Stage 1)
-48,M,127,71,Elevated
-37,F,97,75,Normal
-40,F,111,86,High (Stage 1)
-49,M,140,70,High (Stage 2)
-50,F,96,73,Normal
-32,M,143,67,High (Stage 2)
-54,M,139,66,High (Stage 1)
-30,M,148,91,High (Stage 2)
-43,F,103,98,High (Stage 2)
-34,F,124,70,Elevated
-38,M,128,81,High (Stage 1)
-56,M,149,66,High (Stage 2)
-35,F,92,89,High (Stage 1)
-50,M,141,78,High (Stage 2)
-46,M,137,76,High (Stage 1)
-52,M,133,63,High (Stage 1)
-43,F,131,95,High (Stage 1)
-31,F,129,86,High (Stage 1)
-32,F,119,61,Normal
-42,M,143,67,High (Stage 2)
-38,M,127,84,High (Stage 1)
-40,M,126,71,Elevated
-37,M,140,69,High (Stage 2)
-58,M,103,73,Normal
-42,F,126,86,High (Stage 1)
-30,F,150,61,High (Stage 2)
-46,M,94,64,Normal
-31,M,110,92,High (Stage 2)
-38,F,98,66,Normal
-48,F,121,68,Elevated
-39,M,133,86,High (Stage 1)
-39,M,101,98,High (Stage 2)
-54,F,121,100,High (Stage 2)
-32,F,148,96,High (Stage 2)
-40,F,100,62,Normal
-38,M,103,82,High (Stage 1)
-57,F,110,78,Normal
-38,M,94,73,Normal
-57,M,109,83,High (Stage 1)
-39,M,113,69,Normal
-40,M,135,96,High (Stage 1)
-56,M,136,76,High (Stage 1)
-34,F,139,64,High (Stage 1)
-60,F,141,69,High (Stage 2)
-47,F,114,69,Normal
-54,F,118,64,Normal
-36,M,124,66,Elevated
-47,F,94,93,High (Stage 2)
-57,M,117,66,Normal
-52,F,103,99,High (Stage 2)
-45,M,114,90,High (Stage 2)
-31,M,116,69,Normal
-49,F,136,93,High (Stage 1)
-48,M,99,82,High (Stage 1)
-37,F,100,96,High (Stage 2)
-49,F,140,95,High (Stage 2)
-49,M,101,72,Normal
-60,M,99,76,Normal
-49,M,150,91,High (Stage 2)
-31,M,139,81,High (Stage 1)
-52,F,104,83,High (Stage 1)
-34,M,111,84,High (Stage 1)
-60,F,147,64,High (Stage 2)
-34,F,117,69,Normal
-32,M,115,100,High (Stage 2)
-55,M,141,85,High (Stage 1)
-48,M,110,77,Normal
-56,F,102,71,Normal
-47,F,136,85,High (Stage 1)
-59,M,145,62,High (Stage 2)
-42,M,113,72,Normal
-44,F,123,75,Elevated
-59,F,99,75,Normal
-49,F,106,61,Normal
-46,M,101,78,Normal
-45,M,98,76,Normal
-45,F,121,88,High (Stage 1)
-53,F,91,79,Normal
-46,M,100,90,High (Stage 2)
-33,M,104,85,High (Stage 1)
-46,F,129,63,Elevated
-30,M,128,88,High (Stage 1)
-43,F,124,91,High (Stage 2)
-45,M,131,67,High (Stage 1)
-35,F,124,90,High (Stage 2)
-58,F,111,78,Normal
-34,F,137,82,High (Stage 1)
-31,M,128,93,High (Stage 2)
-38,M,129,78,Elevated
-56,F,109,67,Normal
-36,M,136,60,High (Stage 1)
-57,F,149,61,High (Stage 2)
-59,F,133,74,High (Stage 1)
-55,M,149,93,High (Stage 2)
-50,M,138,96,High (Stage 1)
-59,F,93,89,High (Stage 1)
-38,F,123,77,Elevated
-30,M,106,83,High (Stage 1)
-40,F,117,64,Normal
-34,M,100,80,High (Stage 1)
-38,F,99,70,Normal
-36,F,145,60,High (Stage 2)
-30,M,104,96,High (Stage 2)
-49,F,110,71,Normal
-44,F,123,89,High (Stage 1)
-39,M,93,85,High (Stage 1)
-38,M,95,66,Normal
-32,M,129,94,High (Stage 2)
-42,F,99,83,High (Stage 1)
-34,M,116,72,Normal
-40,M,110,93,High (Stage 2)
-41,F,116,69,Normal
-56,M,123,75,Elevated
-60,F,125,61,Elevated
-40,F,93,63,Normal
-54,M,138,100,High (Stage 1)
-34,M,137,81,High (Stage 1)
-35,M,135,91,High (Stage 1)
-30,F,109,70,Normal
-35,M,136,97,High (Stage 1)
-51,M,96,93,High (Stage 2)
-32,F,136,61,High (Stage 1)
-47,M,103,69,Normal
-41,M,121,68,Elevated
-36,M,148,64,High (Stage 2)
-39,M,150,78,High (Stage 2)
-53,F,127,78,Elevated
-43,F,117,81,High (Stage 1)
-58,M,125,100,High (Stage 2)
-59,M,126,80,High (Stage 1)
-42,F,132,86,High (Stage 1)
-46,F,92,74,Normal
-42,F,93,88,High (Stage 1)
-54,M,126,60,Elevated
-54,F,134,82,High (Stage 1)
-47,M,130,87,High (Stage 1)
-46,M,95,60,Normal
-52,M,114,92,High (Stage 2)
-43,M,128,75,Elevated
-42,F,140,89,High (Stage 1)
-37,F,116,100,High (Stage 2)
-33,M,100,80,High (Stage 1)
-48,M,133,94,High (Stage 1)
-40,F,143,93,High (Stage 2)
-31,M,146,61,High (Stage 2)
-58,M,113,96,High (Stage 2)
-53,M,108,61,Normal
-35,F,143,98,High (Stage 2)
-60,F,117,84,High (Stage 1)
-30,F,139,79,High (Stage 1)
-58,M,98,63,Normal
-48,M,120,72,Elevated
-58,F,135,88,High (Stage 1)
-53,M,139,63,High (Stage 1)
-52,M,107,74,Normal
-36,M,123,93,High (Stage 2)
-43,F,148,85,High (Stage 1)
-60,F,122,71,Elevated
-49,F,96,72,Normal
-39,F,119,69,Normal
-36,M,97,87,High (Stage 1)
-49,F,111,90,High (Stage 2)
-38,M,113,94,High (Stage 2)
-49,F,113,95,High (Stage 2)
-50,M,133,87,High (Stage 1)
-39,M,103,88,High (Stage 1)
-50,M,135,85,High (Stage 1)
-60,M,97,71,Normal
-38,F,108,87,High (Stage 1)
-51,M,108,61,Normal
-50,F,127,75,Elevated
-38,F,149,91,High (Stage 2)
-59,M,93,78,Normal
-43,F,141,95,High (Stage 2)
-32,M,127,77,Elevated
-32,M,145,96,High (Stage 2)
-32,F,94,78,Normal
-47,M,133,64,High (Stage 1)
-37,F,150,64,High (Stage 2)
-33,F,132,92,High (Stage 1)
-47,F,143,89,High (Stage 1)
-58,F,98,88,High (Stage 1)
-42,M,128,64,Elevated
-56,M,96,85,High (Stage 1)
-33,M,104,84,High (Stage 1)
-56,M,132,87,High (Stage 1)
-44,F,131,88,High (Stage 1)
-32,M,122,75,Elevated
-58,M,142,79,High (Stage 2)
-60,F,141,70,High (Stage 2)
-35,M,101,81,High (Stage 1)
-55,M,95,97,High (Stage 2)
-42,F,108,64,Normal
-39,F,91,65,Normal
-30,F,126,74,Elevated
-37,M,135,66,High (Stage 1)
-44,M,115,64,Normal
-47,M,121,92,High (Stage 2)
-47,M,119,99,High (Stage 2)
-39,M,134,89,High (Stage 1)
-50,F,145,71,High (Stage 2)
-40,M,148,95,High (Stage 2)
-52,F,111,69,Normal
-39,F,134,69,High (Stage 1)
-46,F,120,70,Elevated
-39,M,114,70,Normal
-53,M,95,94,High (Stage 2)
-54,F,116,86,High (Stage 1)
-36,M,104,77,Normal
-52,M,98,73,Normal
-39,M,130,94,High (Stage 1)
-38,M,129,61,Elevated
-57,F,112,71,Normal
-44,M,123,83,High (Stage 1)
-46,F,122,91,High (Stage 2)
-39,M,99,89,High (Stage 1)
-60,M,102,93,High (Stage 2)
-51,M,93,78,Normal
-39,F,120,89,High (Stage 1)
-42,F,149,66,High (Stage 2)
-31,M,125,73,Elevated
-31,M,139,82,High (Stage 1)
-37,F,141,82,High (Stage 1)
-32,M,95,96,High (Stage 2)
-37,F,113,79,Normal
-57,F,140,98,High (Stage 2)
-54,F,143,89,High (Stage 1)
-36,F,139,61,High (Stage 1)
-40,F,92,66,Normal
-55,F,115,75,Normal
-42,M,132,69,High (Stage 1)
-35,M,97,71,Normal
-51,F,96,78,Normal
-47,F,111,85,High (Stage 1)
-34,F,132,95,High (Stage 1)
-57,F,97,80,High (Stage 1)
-39,F,92,96,High (Stage 2)
-57,M,140,85,High (Stage 1)
-51,F,91,71,Normal
-46,F,98,90,High (Stage 2)
-57,F,150,97,High (Stage 2)
-35,M,133,71,High (Stage 1)
-51,M,127,80,High (Stage 1)
-58,F,113,79,Normal
-36,F,143,75,High (Stage 2)
-34,M,123,87,High (Stage 1)
-30,F,125,63,Elevated
-51,M,142,66,High (Stage 2)
-56,F,149,89,High (Stage 1)
-43,M,145,63,High (Stage 2)
-49,M,136,95,High (Stage 1)
-36,F,103,80,High (Stage 1)
-35,M,141,81,High (Stage 1)
-43,F,126,62,Elevated
-34,M,136,83,High (Stage 1)
-48,M,135,87,High (Stage 1)
-34,M,100,63,Normal
-48,F,94,86,High (Stage 1)
-33,F,102,62,Normal
-46,F,135,76,High (Stage 1)
-54,F,126,76,Elevated
-34,M,90,82,High (Stage 1)
-37,F,131,80,High (Stage 1)
-54,F,94,81,High (Stage 1)
-49,F,104,93,High (Stage 2)
-58,M,98,60,Normal
-52,M,120,94,High (Stage 2)
-58,F,96,98,High (Stage 2)
-36,M,105,88,High (Stage 1)
-41,F,142,87,High (Stage 1)
-46,M,117,98,High (Stage 2)
-40,F,133,94,High (Stage 1)
-60,F,144,86,High (Stage 1)
-47,F,102,86,High (Stage 1)
-49,M,111,83,High (Stage 1)
-49,M,126,86,High (Stage 1)
-58,F,112,84,High (Stage 1)
-56,F,108,66,Normal
-47,M,125,99,High (Stage 2)
-54,M,119,88,High (Stage 1)
-55,F,132,71,High (Stage 1)
-49,M,110,77,Normal
-37,M,130,89,High (Stage 1)
-42,F,141,78,High (Stage 2)
-60,F,95,94,High (Stage 2)
-50,F,110,81,High (Stage 1)
-48,F,116,91,High (Stage 2)
-57,M,109,76,Normal
-47,F,112,97,High (Stage 2)
-38,F,142,73,High (Stage 2)
-52,F,124,92,High (Stage 2)
-41,M,91,81,High (Stage 1)
-33,F,130,99,High (Stage 1)
-54,F,142,72,High (Stage 2)
-35,F,119,83,High (Stage 1)
-41,M,118,100,High (Stage 2)
-49,F,147,74,High (Stage 2)
-45,F,142,76,High (Stage 2)
-48,M,127,93,High (Stage 2)
-30,F,91,70,Normal
-46,F,116,87,High (Stage 1)
-49,F,147,79,High (Stage 2)
-47,M,97,72,Normal
-40,F,119,72,Normal
-50,F,119,81,High (Stage 1)
-47,M,134,72,High (Stage 1)
-53,M,103,69,Normal
-33,M,150,80,High (Stage 1)
-39,M,125,64,Elevated
-48,F,102,84,High (Stage 1)
-40,F,117,86,High (Stage 1)
-32,M,102,74,Normal
-43,F,118,84,High (Stage 1)
-37,F,120,97,High (Stage 2)
-59,F,93,73,Normal
-35,M,96,71,Normal
-34,M,136,67,High (Stage 1)
-57,M,94,85,High (Stage 1)
-32,F,112,63,Normal
-42,F,146,74,High (Stage 2)
-57,F,147,74,High (Stage 2)
-35,M,139,89,High (Stage 1)
-47,F,129,88,High (Stage 1)
-55,M,106,66,Normal
-32,M,138,81,High (Stage 1)
-34,M,140,88,High (Stage 1)
-43,F,128,94,High (Stage 2)
-31,F,115,60,Normal
-52,M,102,82,High (Stage 1)
-55,M,101,96,High (Stage 2)
-31,F,142,67,High (Stage 2)
-43,M,106,92,High (Stage 2)
-31,F,145,93,High (Stage 2)
-40,M,144,85,High (Stage 1)
-50,M,92,60,Normal
-34,F,104,85,High (Stage 1)
-35,M,140,66,High (Stage 2)
-54,F,127,84,High (Stage 1)
-39,F,148,100,High (Stage 2)
-42,F,146,91,High (Stage 2)
-48,M,114,63,Normal
-40,M,107,75,Normal
-48,M,119,70,Normal
-36,F,106,88,High (Stage 1)
-36,M,116,70,Normal
-51,F,118,97,High (Stage 2)
-48,M,128,66,Elevated
-49,F,121,66,Elevated
-33,F,113,89,High (Stage 1)
-37,M,131,69,High (Stage 1)
-58,F,119,63,Normal
-47,M,116,72,Normal
-50,M,101,65,Normal
-34,M,115,90,High (Stage 2)
-37,M,100,76,Normal
-45,M,113,79,Normal
-42,F,134,85,High (Stage 1)
-37,F,106,94,High (Stage 2)
-52,F,145,92,High (Stage 2)
-38,F,139,77,High (Stage 1)
-50,M,118,95,High (Stage 2)
-42,F,119,95,High (Stage 2)
-33,M,139,98,High (Stage 1)
-33,M,105,95,High (Stage 2)
-41,M,125,88,High (Stage 1)
-41,M,131,81,High (Stage 1)
-51,F,98,83,High (Stage 1)
-47,F,131,95,High (Stage 1)
-33,F,131,67,High (Stage 1)
-44,F,123,89,High (Stage 1)
-45,M,147,77,High (Stage 2)
-36,M,139,78,High (Stage 1)
-41,F,125,61,Elevated
-37,F,131,100,High (Stage 1)
-58,F,103,83,High (Stage 1)
-38,F,117,92,High (Stage 2)
-56,F,97,79,Normal
-34,F,120,100,High (Stage 2)
-59,F,130,98,High (Stage 1)
-58,M,117,81,High (Stage 1)
-51,F,103,85,High (Stage 1)
-41,M,150,98,High (Stage 2)
-32,F,136,80,High (Stage 1)
-41,M,114,89,High (Stage 1)
-35,F,127,74,Elevated
-36,M,102,79,Normal
-53,M,140,72,High (Stage 2)
-50,M,118,97,High (Stage 2)
-30,F,130,81,High (Stage 1)
-39,M,121,61,Elevated
-31,M,131,79,High (Stage 1)
-33,M,119,97,High (Stage 2)
-55,F,133,87,High (Stage 1)
-50,M,109,84,High (Stage 1)
-36,M,126,91,High (Stage 2)
-48,F,128,67,Elevated
-51,F,117,92,High (Stage 2)
-44,F,91,98,High (Stage 2)
-52,F,105,72,Normal
-34,F,134,60,High (Stage 1)
-35,F,95,100,High (Stage 2)
-37,F,96,65,Normal
-37,F,129,87,High (Stage 1)
-44,M,137,91,High (Stage 1)
-46,M,112,61,Normal
-32,M,148,98,High (Stage 2)
-31,F,115,72,Normal
-50,F,125,87,High (Stage 1)
-32,M,141,69,High (Stage 2)
-55,F,132,65,High (Stage 1)
-60,M,123,72,Elevated
-33,F,142,61,High (Stage 2)
-36,M,126,73,Elevated
-32,F,113,98,High (Stage 2)
-37,F,146,89,High (Stage 1)
-54,M,107,83,High (Stage 1)
-60,F,137,89,High (Stage 1)
-53,M,119,68,Normal
-31,F,105,93,High (Stage 2)
-32,M,107,66,Normal
-46,M,95,86,High (Stage 1)
-55,F,94,81,High (Stage 1)
-40,M,127,89,High (Stage 1)
-41,M,130,66,High (Stage 1)
-49,M,98,85,High (Stage 1)
-47,F,113,69,Normal
-56,F,129,82,High (Stage 1)
-55,F,140,62,High (Stage 2)
-34,M,120,89,High (Stage 1)
-34,F,124,73,Elevated
-41,F,148,67,High (Stage 2)
-47,M,122,74,Elevated
-32,M,119,74,Normal
-40,M,122,73,Elevated
-43,F,131,68,High (Stage 1)
-49,M,107,100,High (Stage 2)
-34,F,96,60,Normal
-30,M,122,73,Elevated
-42,M,143,82,High (Stage 1)
-37,M,98,92,High (Stage 2)
-60,F,112,80,High (Stage 1)
-44,M,129,61,Elevated
-60,M,130,71,High (Stage 1)
-46,F,129,80,High (Stage 1)
-44,F,148,65,High (Stage 2)
-58,F,90,74,Normal
-41,M,101,77,Normal
-31,M,127,70,Elevated
-53,M,132,83,High (Stage 1)
-45,M,111,97,High (Stage 2)
-50,F,144,81,High (Stage 1)
-49,M,130,68,High (Stage 1)
-54,F,102,73,Normal
-35,M,118,78,Normal
-34,F,108,100,High (Stage 2)
-36,F,111,87,High (Stage 1)
-43,F,92,69,Normal
-55,M,94,71,Normal
-41,F,119,73,Normal
-39,M,127,86,High (Stage 1)
-58,M,113,73,Normal
-35,F,119,66,Normal
-41,F,142,93,High (Stage 2)
-51,M,148,73,High (Stage 2)
-52,F,138,84,High (Stage 1)
-51,M,126,82,High (Stage 1)
-49,F,121,67,Elevated
-37,F,113,75,Normal
-60,F,92,70,Normal
-31,F,90,79,Normal
-36,F,126,89,High (Stage 1)
-58,M,132,78,High (Stage 1)
-53,F,121,67,Elevated
-49,F,137,64,High (Stage 1)
-50,M,130,66,High (Stage 1)
-35,F,149,69,High (Stage 2)
-56,F,110,86,High (Stage 1)
-35,F,143,64,High (Stage 2)
-55,M,118,72,Normal
-40,F,125,80,High (Stage 1)
-60,F,150,67,High (Stage 2)
-45,M,117,60,Normal
-44,M,141,68,High (Stage 2)
-30,F,142,66,High (Stage 2)
-50,M,125,90,High (Stage 2)
-31,M,124,61,Elevated
-43,M,129,61,Elevated
-55,M,134,90,High (Stage 1)
-31,F,108,71,Normal
-42,F,92,95,High (Stage 2)
-50,M,126,77,Elevated
-42,F,109,91,High (Stage 2)
-56,M,150,97,High (Stage 2)
-54,M,137,65,High (Stage 1)
-48,F,110,72,Normal
-44,M,101,73,Normal
-42,M,123,62,Elevated
-49,F,150,79,High (Stage 2)
-54,F,129,98,High (Stage 2)
-52,F,108,73,Normal
-54,M,134,88,High (Stage 1)
-51,F,149,92,High (Stage 2)
-45,F,140,77,High (Stage 2)
-43,M,142,88,High (Stage 1)
-37,F,108,67,Normal
-50,M,123,99,High (Stage 2)
-55,F,113,98,High (Stage 2)
-48,F,110,64,Normal
-48,M,99,62,Normal
-43,M,111,87,High (Stage 1)
-49,M,98,65,Normal
-40,F,104,70,Normal
-37,M,147,71,High (Stage 2)
-40,F,95,90,High (Stage 2)
-53,M,141,62,High (Stage 2)
-32,F,103,63,Normal
-47,M,98,89,High (Stage 1)
-46,F,130,93,High (Stage 1)
-42,M,139,62,High (Stage 1)
-39,M,134,60,High (Stage 1)
-56,M,102,100,High (Stage 2)
-38,F,124,98,High (Stage 2)
-32,M,123,83,High (Stage 1)
-32,M,111,73,Normal
-54,M,114,88,High (Stage 1)
-52,M,140,98,High (Stage 2)
-57,F,137,88,High (Stage 1)
-42,F,139,96,High (Stage 1)
-37,F,113,77,Normal
-42,M,112,93,High (Stage 2)
-47,F,118,97,High (Stage 2)
-38,M,94,78,Normal
-46,F,95,81,High (Stage 1)
-30,F,110,98,High (Stage 2)
-52,M,132,76,High (Stage 1)
-52,M,107,80,High (Stage 1)
-31,M,136,92,High (Stage 1)
-45,M,102,61,Normal
-46,F,116,65,Normal
-46,F,92,62,Normal
-56,F,145,79,High (Stage 2)
-35,F,144,63,High (Stage 2)
-46,M,116,91,High (Stage 2)
-34,F,116,85,High (Stage 1)
-32,M,144,96,High (Stage 2)
-40,M,107,88,High (Stage 1)
-34,F,118,96,High (Stage 2)
-56,F,136,75,High (Stage 1)
-46,F,117,83,High (Stage 1)
-43,M,127,99,High (Stage 2)
-43,F,146,60,High (Stage 2)
-32,M,138,68,High (Stage 1)
-48,F,118,67,Normal
-42,M,128,60,Elevated
-36,M,111,77,Normal
-43,F,102,92,High (Stage 2)
-50,F,141,70,High (Stage 2)
-59,M,122,94,High (Stage 2)
-34,M,127,77,Elevated
-52,M,132,77,High (Stage 1)
-36,M,91,91,High (Stage 2)
-59,F,95,89,High (Stage 1)
-52,M,143,81,High (Stage 1)
-50,M,94,69,Normal
-41,M,102,62,Normal
-47,M,141,63,High (Stage 2)
-56,F,111,72,Normal
-52,M,121,65,Elevated
-44,M,147,79,High (Stage 2)
-31,F,139,81,High (Stage 1)
-33,M,119,60,Normal
-53,M,114,86,High (Stage 1)
-57,F,114,73,Normal
-43,M,99,70,Normal
-58,F,123,76,Elevated
-56,M,124,78,Elevated
-34,F,109,61,Normal
-34,M,104,64,Normal
-53,F,127,84,High (Stage 1)
-59,M,104,95,High (Stage 2)
-38,F,98,86,High (Stage 1)
-42,M,131,66,High (Stage 1)
-55,M,146,65,High (Stage 2)
-57,M,113,95,High (Stage 2)
-57,F,130,61,High (Stage 1)
-34,F,118,67,Normal
-36,M,140,67,High (Stage 2)
-42,F,104,62,Normal
-35,F,127,71,Elevated
-52,F,122,97,High (Stage 2)
-45,M,112,75,Normal
-42,F,102,64,Normal
-58,F,99,90,High (Stage 2)
-48,F,133,76,High (Stage 1)
-54,M,117,74,Normal
-59,F,139,68,High (Stage 1)
-33,M,140,62,High (Stage 2)
-34,F,90,70,Normal
-30,F,97,67,Normal
-37,F,126,99,High (Stage 2)
-39,M,120,91,High (Stage 2)
-60,M,119,65,Normal
-44,M,113,70,Normal
-40,M,94,68,Normal
-56,F,111,97,High (Stage 2)
-59,M,145,65,High (Stage 2)
-44,M,149,60,High (Stage 2)
-55,M,102,95,High (Stage 2)
-45,F,132,84,High (Stage 1)
-31,F,135,83,High (Stage 1)
-33,M,116,69,Normal
-52,F,90,82,High (Stage 1)
-50,F,131,75,High (Stage 1)
-34,F,138,76,High (Stage 1)
-56,F,130,77,High (Stage 1)
-39,F,101,92,High (Stage 2)
-48,M,144,99,High (Stage 2)
-52,F,106,77,Normal
-41,F,139,60,High (Stage 1)
-44,M,142,84,High (Stage 1)
-36,M,93,63,Normal
-53,F,104,70,Normal
-46,F,126,81,High (Stage 1)
-56,M,148,94,High (Stage 2)
-47,M,106,92,High (Stage 2)
-55,F,107,89,High (Stage 1)
-60,F,133,65,High (Stage 1)
-37,F,147,85,High (Stage 1)
-51,M,144,70,High (Stage 2)
-31,M,141,96,High (Stage 2)
-49,F,104,80,High (Stage 1)
-48,F,129,60,Elevated
-48,F,146,99,High (Stage 2)
-40,F,90,97,High (Stage 2)
-57,M,121,93,High (Stage 2)
-33,F,126,86,High (Stage 1)
-53,F,146,80,High (Stage 1)
-44,F,93,95,High (Stage 2)
-37,M,134,68,High (Stage 1)
-60,F,121,100,High (Stage 2)
-31,M,92,60,Normal
-33,F,131,62,High (Stage 1)
-38,M,134,88,High (Stage 1)
-39,F,106,69,Normal
-49,F,110,86,High (Stage 1)
-40,F,143,95,High (Stage 2)
-36,F,98,88,High (Stage 1)
-32,M,143,66,High (Stage 2)
-40,M,101,79,Normal
-55,M,116,66,Normal
-36,F,106,92,High (Stage 2)
-41,F,95,88,High (Stage 1)
-59,F,101,86,High (Stage 1)
-56,M,130,65,High (Stage 1)
-47,F,138,61,High (Stage 1)
-57,F,92,94,High (Stage 2)
-76,M,135,69,High (Stage 1)
-62,F,154,60,High (Stage 2)
-44,F,154,69,High (Stage 2)
-67,M,105,110,High (Stage 2)
-50,M,125,118,High (Stage 2)
-38,F,105,84,High (Stage 1)
-77,M,129,93,High (Stage 2)
-51,M,144,93,High (Stage 2)
-42,M,159,91,High (Stage 2)
-52,F,149,107,High (Stage 2)
-60,F,120,102,High (Stage 2)
-43,F,108,95,High (Stage 2)
-65,M,120,87,High (Stage 1)
-67,F,168,60,High (Stage 2)
-52,M,147,87,High (Stage 1)
-28,F,99,80,High (Stage 1)
-79,M,152,109,High (Stage 2)
-54,F,104,99,High (Stage 2)
-79,M,155,119,High (Stage 2)
-27,M,140,106,High (Stage 2)
-70,F,113,119,High (Stage 2)
-37,F,136,114,High (Stage 1)
-43,M,103,68,Normal
-30,M,121,92,High (Stage 2)
-72,F,116,86,High (Stage 1)
-37,M,121,72,Elevated
-46,M,109,78,Normal
-70,M,162,118,High (Stage 2)
-54,M,155,70,High (Stage 2)
-61,M,169,89,High (Stage 1)
-76,M,154,62,High (Stage 2)
-25,M,163,73,High (Stage 2)
-39,F,161,114,High (Stage 2)
-43,F,163,91,High (Stage 2)
-34,F,148,98,High (Stage 2)
-49,F,121,115,High (Stage 2)
-51,F,131,92,High (Stage 1)
-64,M,102,102,High (Stage 2)
-72,F,157,75,High (Stage 2)
-34,M,171,99,High (Stage 2)
-60,F,143,96,High (Stage 2)
-59,F,118,67,Normal
-60,M,124,110,High (Stage 2)
-32,F,167,83,High (Stage 1)
-70,M,125,93,High (Stage 2)
-41,M,153,95,High (Stage 2)
-79,F,162,114,High (Stage 2)
-64,F,141,83,High (Stage 1)
-37,F,92,61,Normal
-58,M,122,119,High (Stage 2)
-68,F,133,101,High (Stage 1)
-62,F,120,110,High (Stage 2)
-36,F,103,64,Normal
-58,F,94,63,Normal
-62,F,154,114,High (Stage 2)
-44,M,105,108,High (Stage 2)
-52,M,139,83,High (Stage 1)
-58,F,96,85,High (Stage 1)
-73,M,145,91,High (Stage 2)
-48,M,117,60,Normal
-48,F,158,74,High (Stage 2)
-75,F,90,87,High (Stage 1)
-41,F,154,70,High (Stage 2)
-28,M,103,107,High (Stage 2)
-75,F,128,97,High (Stage 2)
-32,M,147,81,High (Stage 1)
-43,M,177,98,High (Stage 2)
-71,F,172,77,High (Stage 2)
-45,M,165,85,High (Stage 1)
-33,M,129,113,High (Stage 2)
-57,F,126,61,Elevated
-47,F,171,113,High (Stage 2)
-67,F,162,117,High (Stage 2)
-33,F,146,91,High (Stage 2)
-64,F,127,99,High (Stage 2)
-76,F,102,70,Normal
-44,M,108,84,High (Stage 1)
-30,F,102,60,Normal
-51,F,127,106,High (Stage 2)
-72,M,117,108,High (Stage 2)
-34,M,109,86,High (Stage 1)
-70,F,132,72,High (Stage 1)
-30,M,174,76,High (Stage 2)
-33,M,144,76,High (Stage 2)
-65,F,102,96,High (Stage 2)
-34,F,100,84,High (Stage 1)
-35,F,113,65,Normal
-74,M,170,89,High (Stage 1)
-52,M,139,106,High (Stage 1)
-27,F,92,88,High (Stage 1)
-45,M,131,115,High (Stage 1)
-67,F,109,84,High (Stage 1)
-58,M,172,108,High (Stage 2)
-49,M,108,115,High (Stage 2)
-66,M,121,105,High (Stage 2)
-63,M,179,79,High (Stage 2)
-79,M,94,117,High (Stage 2)
-76,F,155,79,High (Stage 2)
-46,M,130,109,High (Stage 1)
-52,F,103,90,High (Stage 2)
-74,F,137,113,High (Stage 1)
-60,F,152,114,High (Stage 2)
-57,M,109,118,High (Stage 2)
-43,M,155,110,High (Stage 2)
-33,F,170,76,High (Stage 2)
-72,F,134,85,High (Stage 1)
-57,F,165,99,High (Stage 2)
-27,M,173,96,High (Stage 2)
-38,F,111,97,High (Stage 2)
-29,F,178,90,High (Stage 2)
-45,M,159,78,High (Stage 2)
-37,M,118,78,Normal
-34,F,138,71,High (Stage 1)
-72,F,114,91,High (Stage 2)
-75,M,161,97,High (Stage 2)
-27,M,179,97,High (Stage 2)
-60,M,125,116,High (Stage 2)
-70,F,125,72,Elevated
-55,M,112,113,High (Stage 2)
-79,F,100,67,Normal
-51,M,113,67,Normal
-61,M,92,93,High (Stage 2)
-30,M,172,66,High (Stage 2)
-67,F,162,95,High (Stage 2)
-47,M,93,117,High (Stage 2)
-78,M,126,91,High (Stage 2)
-78,F,93,93,High (Stage 2)
-72,F,99,71,Normal
-56,M,174,78,High (Stage 2)
-60,F,99,108,High (Stage 2)
-41,F,166,77,High (Stage 2)
-66,M,105,68,Normal
-48,M,136,101,High (Stage 1)
-38,M,112,119,High (Stage 2)
-49,M,103,81,High (Stage 1)
-59,M,157,61,High (Stage 2)
-30,M,151,77,High (Stage 2)
-26,M,110,114,High (Stage 2)
-76,M,171,80,High (Stage 1)
-75,M,158,74,High (Stage 2)
-76,F,140,61,High (Stage 2)
-33,M,98,91,High (Stage 2)
-64,M,146,72,High (Stage 2)
-31,M,112,77,Normal
-79,M,132,60,High (Stage 1)
-58,F,162,106,High (Stage 2)
-36,F,133,115,High (Stage 1)
-43,M,117,116,High (Stage 2)
-30,M,154,97,High (Stage 2)
-58,M,117,108,High (Stage 2)
-76,M,110,67,Normal
-50,F,175,98,High (Stage 2)
-50,M,110,90,High (Stage 2)
-29,F,146,96,High (Stage 2)
-46,M,133,95,High (Stage 1)
-53,M,156,64,High (Stage 2)
-63,M,145,103,High (Stage 2)
-76,M,151,78,High (Stage 2)
-31,M,155,81,High (Stage 1)
-59,F,151,90,High (Stage 2)
-48,M,173,109,High (Stage 2)
-25,M,136,72,High (Stage 1)
-67,M,128,61,Elevated
-66,M,95,105,High (Stage 2)
-79,F,141,87,High (Stage 1)
-42,M,103,119,High (Stage 2)
-43,M,177,72,High (Stage 2)
-79,M,166,115,High (Stage 2)
-64,F,138,89,High (Stage 1)
-33,M,147,119,High (Stage 2)
-51,F,144,90,High (Stage 2)
-43,F,110,64,Normal
-54,F,168,110,High (Stage 2)
-49,M,123,91,High (Stage 2)
-72,F,91,105,High (Stage 2)
-39,M,154,71,High (Stage 2)
-32,M,105,72,Normal
-31,F,164,63,High (Stage 2)
-31,M,142,74,High (Stage 2)
-64,M,147,73,High (Stage 2)
-70,F,129,65,Elevated
-64,M,116,82,High (Stage 1)
-36,M,91,92,High (Stage 2)
-73,M,101,95,High (Stage 2)
-59,F,161,99,High (Stage 2)
-75,M,124,72,Elevated
-39,M,157,109,High (Stage 2)
-55,M,172,79,High (Stage 2)
-30,F,126,106,High (Stage 2)
-37,F,129,63,Elevated
-68,F,141,76,High (Stage 2)
-38,M,168,63,High (Stage 2)
-53,M,162,94,High (Stage 2)
-46,F,156,103,High (Stage 2)
-33,M,171,76,High (Stage 2)
-55,F,152,61,High (Stage 2)
-51,F,95,115,High (Stage 2)
-73,M,168,61,High (Stage 2)
-28,F,97,101,High (Stage 2)
-66,F,144,105,High (Stage 2)
-44,M,156,68,High (Stage 2)
-61,F,154,71,High (Stage 2)
-32,M,146,118,High (Stage 2)
-79,M,157,65,High (Stage 2)
-29,F,123,114,High (Stage 2)
-75,F,111,82,High (Stage 1)
-39,M,178,111,High (Stage 2)
-49,F,127,98,High (Stage 2)
-47,F,139,108,High (Stage 1)
-44,F,93,96,High (Stage 2)
-45,M,167,90,High (Stage 2)
-30,F,173,102,High (Stage 2)
-39,M,119,100,High (Stage 2)
-38,F,179,94,High (Stage 2)
-72,F,132,76,High (Stage 1)
-40,F,140,105,High (Stage 2)
-30,M,116,85,High (Stage 1)
-32,M,142,88,High (Stage 1)
-69,M,132,101,High (Stage 1)
-31,M,121,115,High (Stage 2)
-25,M,102,60,Normal
-43,F,159,82,High (Stage 1)
-55,M,164,90,High (Stage 2)
-41,F,125,78,Elevated
-62,F,125,85,High (Stage 1)
-74,M,144,95,High (Stage 2)
-61,M,109,82,High (Stage 1)
-50,F,164,81,High (Stage 1)
-44,F,106,105,High (Stage 2)
-52,F,129,99,High (Stage 2)
-77,F,166,116,High (Stage 2)
-42,F,117,113,High (Stage 2)
-30,F,95,87,High (Stage 1)
-25,M,112,117,High (Stage 2)
-32,F,130,70,High (Stage 1)
-47,M,90,66,Normal
-29,F,111,108,High (Stage 2)
-33,F,145,110,High (Stage 2)
-38,M,102,97,High (Stage 2)
-56,F,126,113,High (Stage 2)
-50,F,160,71,High (Stage 2)
-73,M,100,75,Normal
-68,F,146,69,High (Stage 2)
-51,M,144,115,High (Stage 2)
-46,F,93,105,High (Stage 2)
-46,M,178,109,High (Stage 2)
-70,F,95,110,High (Stage 2)
-35,F,160,78,High (Stage 2)
-68,F,155,68,High (Stage 2)
-47,M,173,114,High (Stage 2)
-29,M,151,93,High (Stage 2)
-65,F,141,81,High (Stage 1)
-61,M,156,66,High (Stage 2)
-39,M,132,77,High (Stage 1)
-41,F,172,68,High (Stage 2)
-26,F,108,117,High (Stage 2)
-26,F,165,101,High (Stage 2)
-68,F,128,88,High (Stage 1)
-33,M,178,65,High (Stage 2)
-75,F,159,100,High (Stage 2)
-75,M,159,101,High (Stage 2)
-63,M,101,77,Normal
-38,F,103,71,Normal
-76,F,157,67,High (Stage 2)
-39,F,141,118,High (Stage 2)
-26,F,156,118,High (Stage 2)
-26,M,101,60,Normal
-57,F,138,65,High (Stage 1)
-52,F,99,99,High (Stage 2)
-65,M,136,74,High (Stage 1)
-58,M,143,65,High (Stage 2)
-40,M,147,90,High (Stage 2)
-25,F,163,61,High (Stage 2)
-25,F,175,105,High (Stage 2)
-68,F,114,63,Normal
-76,M,94,77,Normal
-64,F,99,77,Normal
-31,M,126,84,High (Stage 1)
-77,M,178,63,High (Stage 2)
-54,F,125,88,High (Stage 1)
-36,F,170,116,High (Stage 2)
-27,F,147,90,High (Stage 2)
-79,F,147,108,High (Stage 2)
-29,F,141,108,High (Stage 2)
-71,F,149,78,High (Stage 2)
-30,F,99,73,Normal
-41,M,161,92,High (Stage 2)
-67,M,162,79,High (Stage 2)
-63,M,107,65,Normal
-64,M,163,78,High (Stage 2)
-49,M,122,97,High (Stage 2)
-66,F,101,91,High (Stage 2)
-31,F,154,112,High (Stage 2)
-64,F,143,84,High (Stage 1)
-61,M,173,68,High (Stage 2)
-59,F,178,108,High (Stage 2)
-73,F,134,76,High (Stage 1)
-56,M,159,60,High (Stage 2)
-35,F,95,111,High (Stage 2)
-35,F,148,93,High (Stage 2)
-72,F,177,67,High (Stage 2)
-72,F,143,62,High (Stage 2)
-25,M,93,79,Normal
-59,F,139,72,High (Stage 1)
-39,F,147,107,High (Stage 2)
-70,F,90,109,High (Stage 2)
-29,F,169,119,High (Stage 2)
-39,F,149,82,High (Stage 1)
-26,M,93,79,Normal
-41,F,102,71,Normal
-63,F,125,94,High (Stage 2)
-66,M,143,91,High (Stage 2)
-26,F,104,113,High (Stage 2)
-57,F,101,91,High (Stage 2)
-71,M,105,107,High (Stage 2)
-68,M,160,99,High (Stage 2)
-60,F,170,100,High (Stage 2)
-42,M,104,95,High (Stage 2)
-30,M,92,66,Normal
-54,M,159,75,High (Stage 2)
-63,M,115,70,Normal
-60,M,166,80,High (Stage 1)
-46,F,173,73,High (Stage 2)
-33,M,101,83,High (Stage 1)
-39,F,147,110,High (Stage 2)
-46,F,156,99,High (Stage 2)
-54,F,122,115,High (Stage 2)
-27,M,97,113,High (Stage 2)
-31,M,91,107,High (Stage 2)
-46,F,176,100,High (Stage 2)
-70,F,127,66,Elevated
-69,F,122,112,High (Stage 2)
-54,F,161,85,High (Stage 1)
-52,M,101,63,Normal
-56,F,124,60,Elevated
-75,M,119,86,High (Stage 1)
-76,M,157,65,High (Stage 2)
-25,F,166,96,High (Stage 2)
-49,F,176,92,High (Stage 2)
-63,M,162,80,High (Stage 1)
-26,F,96,68,Normal
-28,M,148,84,High (Stage 1)
-52,F,142,95,High (Stage 2)
-64,M,115,113,High (Stage 2)
-31,M,108,61,Normal
-62,M,103,93,High (Stage 2)
-64,F,175,69,High (Stage 2)
-49,F,118,119,High (Stage 2)
-56,M,108,101,High (Stage 2)
-25,F,144,73,High (Stage 2)
-36,F,116,68,Normal
-26,F,111,76,Normal
-78,M,160,82,High (Stage 1)
-41,F,129,63,Elevated
-60,M,162,110,High (Stage 2)
-52,M,97,92,High (Stage 2)
-38,M,177,76,High (Stage 2)
-27,F,139,113,High (Stage 1)
-40,F,115,114,High (Stage 2)
-68,M,136,115,High (Stage 1)
-30,F,134,98,High (Stage 1)
-59,F,110,116,High (Stage 2)
-40,M,125,112,High (Stage 2)
-55,M,120,75,Elevated
-67,F,178,100,High (Stage 2)
-67,F,176,103,High (Stage 2)
-75,M,155,68,High (Stage 2)
-44,F,142,101,High (Stage 2)
-62,F,178,73,High (Stage 2)
-45,F,175,98,High (Stage 2)
-50,M,154,99,High (Stage 2)
-43,M,112,71,Normal
-47,M,113,79,Normal
-57,M,117,116,High (Stage 2)
-30,F,151,101,High (Stage 2)
-79,M,179,74,High (Stage 2)
-55,M,177,107,High (Stage 2)
-28,M,128,110,High (Stage 2)
-75,F,166,111,High (Stage 2)
-26,F,159,81,High (Stage 1)
-62,F,134,110,High (Stage 1)
-64,M,144,77,High (Stage 2)
-50,M,172,111,High (Stage 2)
-67,M,175,107,High (Stage 2)
-57,M,164,78,High (Stage 2)
-77,M,128,91,High (Stage 2)
-69,M,106,115,High (Stage 2)
-51,M,173,70,High (Stage 2)
-31,F,121,96,High (Stage 2)
-62,M,124,102,High (Stage 2)
-62,M,178,81,High (Stage 1)
-47,M,154,112,High (Stage 2)
-26,M,108,88,High (Stage 1)
-46,M,178,77,High (Stage 2)
-67,F,129,113,High (Stage 2)
-49,M,150,81,High (Stage 1)
-67,F,147,116,High (Stage 2)
-49,M,105,104,High (Stage 2)
-75,F,139,90,High (Stage 1)
-58,F,172,63,High (Stage 2)
-37,F,91,108,High (Stage 2)
-71,M,140,67,High (Stage 2)
-41,M,126,64,Elevated
-67,F,92,107,High (Stage 2)
-44,F,148,71,High (Stage 2)
-73,F,112,106,High (Stage 2)
-29,M,165,72,High (Stage 2)
-55,M,102,90,High (Stage 2)
-46,M,169,87,High (Stage 1)
-46,F,117,77,Normal
-76,F,163,82,High (Stage 1)
-75,F,96,89,High (Stage 1)
-41,F,107,91,High (Stage 2)
-69,M,131,98,High (Stage 1)
-62,F,179,91,High (Stage 2)
-35,M,110,112,High (Stage 2)
-70,F,176,95,High (Stage 2)
-33,F,102,73,Normal
-41,M,130,71,High (Stage 1)
-28,F,169,95,High (Stage 2)
-75,F,119,88,High (Stage 1)
-51,M,100,90,High (Stage 2)
-64,M,149,71,High (Stage 2)
-66,M,91,97,High (Stage 2)
-64,F,147,105,High (Stage 2)
-54,F,104,107,High (Stage 2)
-29,F,148,81,High (Stage 1)
-52,M,142,107,High (Stage 2)
-65,M,111,83,High (Stage 1)
-25,F,128,99,High (Stage 2)
-50,M,115,115,High (Stage 2)
-50,M,177,81,High (Stage 1)
-57,F,129,108,High (Stage 2)
-31,F,125,86,High (Stage 1)
-74,F,122,85,High (Stage 1)
-40,M,171,86,High (Stage 1)
-67,M,128,84,High (Stage 1)
-30,F,148,63,High (Stage 2)
-79,M,127,84,High (Stage 1)
-62,F,105,102,High (Stage 2)
-47,M,171,75,High (Stage 2)
-33,F,105,118,High (Stage 2)
-27,F,144,86,High (Stage 1)
-59,F,144,64,High (Stage 2)
-25,M,98,85,High (Stage 1)
-68,M,166,96,High (Stage 2)
-63,M,149,80,High (Stage 1)
-65,F,165,86,High (Stage 1)
-62,F,124,86,High (Stage 1)
-30,F,142,114,High (Stage 2)
-44,F,95,65,Normal
-43,F,164,101,High (Stage 2)
-46,M,105,113,High (Stage 2)
-47,M,142,118,High (Stage 2)
-32,M,169,65,High (Stage 2)
-48,F,154,87,High (Stage 1)
-49,F,97,96,High (Stage 2)
-50,F,116,72,Normal
-69,F,91,69,Normal
-54,M,175,80,High (Stage 1)
-53,F,143,67,High (Stage 2)
-29,M,165,72,High (Stage 2)
-48,F,97,74,Normal
-41,F,105,87,High (Stage 1)
-63,M,162,60,High (Stage 2)
-40,F,119,66,Normal
-78,F,102,115,High (Stage 2)
-39,M,150,90,High (Stage 2)
-71,M,112,63,Normal
-78,F,134,67,High (Stage 1)
+Age,Sex,Blood Pressure Category
+32,F,Elevated
+55,F,Hypertension Stage 1
+44,M,Hypertension Stage 1
+32,F,Hypertension Stage 1
+58,F,Hypertension Stage 2
+33,M,Normal
+55,M,Normal
+37,F,Hypertension Stage 2
+58,F,Hypertension Stage 1
+38,F,Hypertension Stage 1
+32,F,Hypertension Stage 1
+48,M,Normal
+38,M,Hypertension Stage 2
+58,M,Normal
+38,M,Normal
+41,F,Hypertension Stage 1
+57,M,Hypertension Stage 2
+41,F,Hypertension Stage 1
+48,F,Hypertension Stage 2
+40,F,Hypertension Stage 1
+39,F,Hypertension Stage 1
+34,F,Elevated
+35,F,Normal
+36,M,Hypertension Stage 2
+53,F,Hypertension Stage 1
+55,F,Hypertension Stage 2
+47,M,Elevated
+55,M,Normal
+30,M,Hypertension Stage 2
+58,F,Normal
+31,F,Normal
+55,M,Hypertension Stage 1
+37,M,Hypertension Stage 1
+32,M,Hypertension Stage 1
+45,M,Hypertension Stage 1
+32,F,Hypertension Stage 2
+42,F,Hypertension Stage 2
+33,M,Hypertension Stage 1
+46,M,Hypertension Stage 1
+51,F,Normal
+43,F,Normal
+44,F,Elevated
+31,F,Elevated
+48,F,Normal
+34,M,Elevated
+41,M,Hypertension Stage 1
+56,M,Normal
+55,M,Hypertension Stage 1
+59,M,Normal
+50,F,Hypertension Stage 2
+52,F,Hypertension Stage 1
+43,M,Hypertension Stage 1
+37,F,Normal
+51,F,Elevated
+44,F,Normal
+46,F,Elevated
+53,F,Hypertension Stage 1
+56,F,Hypertension Stage 2
+43,M,Hypertension Stage 2
+40,M,Hypertension Stage 2
+51,F,Normal
+52,F,Normal
+55,F,Normal
+48,F,Hypertension Stage 2
+58,M,Hypertension Stage 2
+37,F,Hypertension Stage 2
+55,M,Normal
+51,M,Normal
+57,F,Hypertension Stage 1
+44,M,Hypertension Stage 1
+38,M,Normal
+60,F,Hypertension Stage 1
+51,F,Normal
+43,F,Elevated
+49,M,Hypertension Stage 2
+60,M,Normal
+37,M,Hypertension Stage 2
+52,F,Hypertension Stage 1
+37,F,Hypertension Stage 2
+57,M,Normal
+56,M,Hypertension Stage 1
+32,M,Normal
+58,F,Normal
+37,F,Elevated
+40,F,Hypertension Stage 1
+58,M,Normal
+59,F,Hypertension Stage 2
+60,F,Hypertension Stage 1
+40,F,Hypertension Stage 2
+48,F,Hypertension Stage 2
+40,F,Hypertension Stage 2
+48,M,Normal
+37,M,Hypertension Stage 1
+40,F,Elevated
+32,F,Hypertension Stage 2
+56,M,Normal
+57,M,Hypertension Stage 2
+51,F,Hypertension Stage 1
+48,M,Hypertension Stage 2
+53,F,Hypertension Stage 1
+41,F,Normal
+33,M,Hypertension Stage 2
+59,F,Normal
+42,F,Hypertension Stage 1
+46,F,Hypertension Stage 1
+40,M,Normal
+49,M,Hypertension Stage 1
+30,F,Hypertension Stage 1
+39,F,Hypertension Stage 1
+41,F,Hypertension Stage 2
+50,F,Hypertension Stage 2
+50,M,Hypertension Stage 2
+60,F,Normal
+41,M,Hypertension Stage 1
+59,M,Normal
+60,F,Hypertension Stage 1
+40,F,Hypertension Stage 2
+52,F,Hypertension Stage 1
+45,M,Hypertension Stage 2
+49,F,Normal
+45,M,Hypertension Stage 2
+37,F,Hypertension Stage 1
+34,F,Normal
+31,M,Hypertension Stage 1
+31,F,Hypertension Stage 1
+59,M,Hypertension Stage 2
+54,M,Hypertension Stage 2
+34,F,Normal
+35,M,Normal
+31,F,Hypertension Stage 2
+31,M,Normal
+59,F,Hypertension Stage 1
+33,M,Hypertension Stage 1
+54,F,Hypertension Stage 1
+52,F,Hypertension Stage 1
+54,M,Elevated
+53,F,Hypertension Stage 1
+57,M,Hypertension Stage 2
+33,M,Hypertension Stage 2
+54,F,Hypertension Stage 2
+38,F,Hypertension Stage 2
+51,M,Normal
+51,M,Hypertension Stage 1
+54,F,Hypertension Stage 2
+49,M,Elevated
+45,M,Normal
+50,M,Normal
+59,F,Hypertension Stage 1
+57,M,Hypertension Stage 2
+48,M,Hypertension Stage 1
+45,F,Hypertension Stage 1
+48,M,Hypertension Stage 1
+35,M,Normal
+53,M,Hypertension Stage 1
+33,M,Elevated
+32,F,Hypertension Stage 1
+30,M,Hypertension Stage 1
+48,F,Hypertension Stage 2
+55,F,Hypertension Stage 2
+31,M,Hypertension Stage 2
+33,F,Hypertension Stage 1
+30,F,Elevated
+48,F,Hypertension Stage 2
+51,F,Normal
+53,F,Hypertension Stage 1
+33,F,Elevated
+38,M,Hypertension Stage 2
+30,M,Normal
+54,F,Hypertension Stage 1
+56,M,Hypertension Stage 1
+37,M,Hypertension Stage 1
+59,F,Hypertension Stage 1
+30,M,Hypertension Stage 2
+39,F,Hypertension Stage 2
+49,F,Normal
+36,M,Hypertension Stage 1
+39,M,Hypertension Stage 1
+50,M,Normal
+43,M,Normal
+44,M,Hypertension Stage 1
+60,M,Hypertension Stage 2
+37,F,Elevated
+47,M,Hypertension Stage 2
+32,M,Hypertension Stage 1
+30,F,Normal
+43,M,Hypertension Stage 2
+42,M,Hypertension Stage 2
+46,F,Hypertension Stage 1
+35,M,Normal
+31,M,Hypertension Stage 2
+43,M,Hypertension Stage 1
+56,M,Normal
+40,M,Hypertension Stage 1
+42,M,Hypertension Stage 1
+51,F,Hypertension Stage 1
+30,M,Hypertension Stage 1
+51,M,Normal
+51,F,Normal
+31,M,Hypertension Stage 2
+38,M,Hypertension Stage 1
+42,M,Hypertension Stage 1
+58,F,Hypertension Stage 1
+40,M,Normal
+46,M,Hypertension Stage 2
+35,F,Hypertension Stage 2
+43,M,Hypertension Stage 1
+56,F,Hypertension Stage 1
+48,M,Elevated
+37,F,Normal
+40,F,Hypertension Stage 1
+49,M,Hypertension Stage 2
+50,F,Normal
+32,M,Hypertension Stage 2
+54,M,Hypertension Stage 1
+30,M,Hypertension Stage 2
+43,F,Hypertension Stage 2
+34,F,Elevated
+38,M,Hypertension Stage 1
+56,M,Hypertension Stage 2
+35,F,Hypertension Stage 1
+50,M,Hypertension Stage 2
+46,M,Hypertension Stage 1
+52,M,Hypertension Stage 1
+43,F,Hypertension Stage 1
+31,F,Hypertension Stage 1
+32,F,Normal
+42,M,Hypertension Stage 2
+38,M,Hypertension Stage 1
+41,F,Hypertension Stage 1
+40,M,Elevated
+37,M,Hypertension Stage 2
+58,M,Normal
+42,F,Hypertension Stage 1
+30,F,Hypertension Stage 2
+46,M,Normal
+31,M,Hypertension Stage 2
+38,F,Normal
+48,F,Elevated
+39,M,Hypertension Stage 1
+39,M,Hypertension Stage 2
+54,F,Hypertension Stage 2
+32,F,Hypertension Stage 2
+40,F,Normal
+38,M,Hypertension Stage 1
+57,F,Normal
+38,M,Normal
+57,M,Hypertension Stage 1
+39,M,Normal
+40,M,Hypertension Stage 1
+56,M,Hypertension Stage 1
+34,F,Hypertension Stage 1
+60,F,Hypertension Stage 2
+47,F,Normal
+54,F,Normal
+36,M,Elevated
+47,F,Hypertension Stage 2
+57,M,Normal
+52,F,Hypertension Stage 2
+45,M,Hypertension Stage 2
+31,M,Normal
+49,F,Hypertension Stage 1
+48,M,Hypertension Stage 1
+37,F,Hypertension Stage 2
+49,F,Hypertension Stage 2
+49,M,Normal
+60,M,Normal
+49,M,Hypertension Stage 2
+31,M,Hypertension Stage 1
+52,F,Hypertension Stage 1
+34,M,Hypertension Stage 1
+60,F,Hypertension Stage 2
+34,F,Normal
+32,M,Hypertension Stage 2
+55,M,Hypertension Stage 1
+48,M,Normal
+56,F,Normal
+47,F,Hypertension Stage 1
+59,M,Hypertension Stage 2
+42,M,Normal
+44,F,Elevated
+59,F,Normal
+49,F,Normal
+35,M,Elevated
+46,M,Normal
+45,M,Normal
+55,M,Normal
+45,F,Hypertension Stage 1
+53,F,Normal
+51,M,Hypertension Stage 1
+46,M,Hypertension Stage 2
+33,M,Hypertension Stage 1
+46,F,Elevated
+30,M,Hypertension Stage 1
+43,F,Hypertension Stage 2
+45,M,Hypertension Stage 1
+35,F,Hypertension Stage 2
+58,F,Normal
+34,F,Hypertension Stage 1
+31,M,Hypertension Stage 2
+38,M,Elevated
+56,F,Normal
+36,M,Hypertension Stage 1
+57,F,Hypertension Stage 2
+59,F,Hypertension Stage 1
+38,M,Hypertension Stage 2
+55,M,Hypertension Stage 2
+50,M,Hypertension Stage 1
+59,F,Hypertension Stage 1
+38,F,Elevated
+30,M,Hypertension Stage 1
+40,F,Normal
+34,M,Hypertension Stage 1
+38,F,Normal
+36,F,Hypertension Stage 2
+30,M,Hypertension Stage 2
+49,F,Normal
+44,F,Hypertension Stage 1
+39,M,Hypertension Stage 1
+38,M,Normal
+32,M,Hypertension Stage 2
+42,F,Hypertension Stage 1
+34,M,Normal
+40,M,Hypertension Stage 2
+41,F,Normal
+39,M,Normal
+56,M,Elevated
+60,F,Elevated
+40,F,Normal
+30,F,Hypertension Stage 2
+54,M,Hypertension Stage 1
+36,F,Normal
+34,M,Hypertension Stage 1
+35,M,Hypertension Stage 1
+30,F,Normal
+35,M,Hypertension Stage 1
+51,M,Hypertension Stage 2
+32,F,Hypertension Stage 1
+47,M,Normal
+58,M,Hypertension Stage 1
+41,M,Elevated
+36,M,Hypertension Stage 2
+39,M,Hypertension Stage 2
+53,F,Elevated
+43,F,Hypertension Stage 1
+58,M,Hypertension Stage 2
+59,M,Hypertension Stage 1
+42,F,Hypertension Stage 1
+46,F,Normal
+42,F,Hypertension Stage 1
+54,M,Elevated
+59,M,Hypertension Stage 1
+54,F,Hypertension Stage 1
+47,M,Hypertension Stage 1
+46,M,Normal
+52,M,Hypertension Stage 2
+43,M,Elevated
+42,F,Hypertension Stage 1
+37,F,Hypertension Stage 2
+33,M,Hypertension Stage 1
+48,M,Hypertension Stage 1
+40,F,Hypertension Stage 2
+31,M,Hypertension Stage 2
+47,M,Normal
+49,M,Hypertension Stage 1
+42,M,Hypertension Stage 1
+58,M,Hypertension Stage 2
+53,M,Normal
+35,F,Hypertension Stage 2
+60,F,Hypertension Stage 1
+30,F,Hypertension Stage 1
+58,M,Normal
+48,M,Elevated
+58,F,Hypertension Stage 1
+53,M,Hypertension Stage 1
+52,M,Normal
+36,M,Hypertension Stage 2
+43,F,Hypertension Stage 1
+60,F,Elevated
+49,F,Normal
+39,F,Normal
+36,M,Hypertension Stage 1
+49,F,Hypertension Stage 2
+38,M,Hypertension Stage 2
+49,F,Hypertension Stage 2
+50,M,Hypertension Stage 1
+43,M,Hypertension Stage 2
+39,M,Hypertension Stage 1
+50,M,Hypertension Stage 1
+60,M,Normal
+38,F,Hypertension Stage 1
+51,M,Normal
+50,F,Elevated
+37,F,Hypertension Stage 2
+38,F,Hypertension Stage 2
+59,M,Normal
+43,F,Hypertension Stage 2
+32,M,Elevated
+32,M,Hypertension Stage 2
+32,F,Normal
+47,M,Hypertension Stage 1
+37,F,Hypertension Stage 2
+33,F,Hypertension Stage 1
+47,F,Hypertension Stage 1
+58,F,Hypertension Stage 1
+42,M,Elevated
+59,F,Hypertension Stage 1
+56,M,Hypertension Stage 1
+33,M,Hypertension Stage 1
+56,M,Hypertension Stage 1
+44,F,Hypertension Stage 1
+32,M,Elevated
+58,M,Hypertension Stage 2
+60,F,Hypertension Stage 2
+35,M,Hypertension Stage 1
+55,M,Hypertension Stage 2
+42,F,Normal
+39,F,Normal
+50,M,Hypertension Stage 2
+30,F,Elevated
+37,M,Hypertension Stage 1
+44,M,Normal
+47,M,Hypertension Stage 2
+47,M,Hypertension Stage 2
+39,M,Hypertension Stage 1
+36,F,Hypertension Stage 2
+50,F,Hypertension Stage 2
+40,M,Hypertension Stage 2
+52,F,Normal
+39,F,Hypertension Stage 1
+46,F,Elevated
+39,M,Normal
+35,F,Hypertension Stage 1
+53,M,Hypertension Stage 2
+54,F,Hypertension Stage 1
+48,M,Hypertension Stage 2
+36,M,Normal
+52,M,Normal
+39,M,Hypertension Stage 1
+38,M,Elevated
+38,M,Hypertension Stage 1
+57,F,Normal
+44,M,Hypertension Stage 1
+46,F,Hypertension Stage 2
+39,M,Hypertension Stage 1
+60,M,Hypertension Stage 2
+58,F,Elevated
+51,M,Normal
+39,F,Hypertension Stage 1
+42,F,Hypertension Stage 2
+31,M,Elevated
+31,M,Hypertension Stage 1
+37,F,Hypertension Stage 1
+32,M,Hypertension Stage 2
+37,F,Normal
+57,F,Hypertension Stage 2
+56,F,Normal
+60,M,Hypertension Stage 2
+54,F,Hypertension Stage 1
+36,F,Hypertension Stage 1
+58,M,Hypertension Stage 2
+40,F,Normal
+55,F,Normal
+42,M,Hypertension Stage 1
+42,M,Normal
+35,M,Normal
+51,F,Normal
+47,F,Hypertension Stage 1
+34,F,Hypertension Stage 1
+57,F,Hypertension Stage 1
+39,F,Hypertension Stage 2
+57,M,Hypertension Stage 1
+30,M,Hypertension Stage 2
+51,F,Normal
+55,M,Elevated
+46,F,Hypertension Stage 2
+57,F,Hypertension Stage 2
+35,M,Hypertension Stage 1
+51,M,Hypertension Stage 1
+58,F,Normal
+36,F,Hypertension Stage 2
+34,M,Hypertension Stage 1
+30,F,Elevated
+38,M,Normal
+51,M,Hypertension Stage 2
+35,F,Elevated
+56,F,Hypertension Stage 1
+43,M,Hypertension Stage 2
+49,M,Hypertension Stage 1
+36,F,Hypertension Stage 1
+44,F,Normal
+35,M,Hypertension Stage 1
+43,F,Elevated
+34,M,Hypertension Stage 1
+48,M,Hypertension Stage 1
+34,M,Normal
+48,F,Hypertension Stage 1
+33,F,Normal
+46,F,Hypertension Stage 1
+60,M,Hypertension Stage 2
+54,F,Elevated
+34,M,Hypertension Stage 1
+37,F,Hypertension Stage 1
+54,F,Hypertension Stage 1
+49,F,Hypertension Stage 2
+32,M,Hypertension Stage 1
+58,M,Normal
+52,M,Hypertension Stage 2
+58,F,Hypertension Stage 2
+36,M,Hypertension Stage 1
+41,F,Hypertension Stage 1
+46,M,Hypertension Stage 2
+40,F,Hypertension Stage 1
+60,F,Hypertension Stage 1
+47,F,Hypertension Stage 1
+49,M,Hypertension Stage 1
+49,M,Hypertension Stage 1
+58,F,Hypertension Stage 1
+56,F,Normal
+47,M,Hypertension Stage 2
+54,M,Hypertension Stage 1
+51,F,Elevated
+55,F,Hypertension Stage 1
+49,M,Normal
+51,M,Hypertension Stage 2
+37,M,Hypertension Stage 1
+42,F,Hypertension Stage 2
+60,F,Hypertension Stage 2
+50,F,Hypertension Stage 1
+48,F,Hypertension Stage 2
+57,M,Normal
+47,F,Hypertension Stage 2
+38,F,Hypertension Stage 2
+52,F,Hypertension Stage 2
+41,M,Hypertension Stage 1
+30,M,Hypertension Stage 1
+33,F,Hypertension Stage 1
+54,F,Hypertension Stage 2
+35,F,Hypertension Stage 1
+41,M,Hypertension Stage 2
+49,F,Hypertension Stage 2
+45,F,Hypertension Stage 2
+48,M,Hypertension Stage 2
+30,F,Normal
+46,F,Hypertension Stage 1
+49,F,Hypertension Stage 2
+47,M,Normal
+40,F,Normal
+50,F,Hypertension Stage 1
+44,F,Normal
+47,M,Hypertension Stage 1
+53,M,Normal
+51,F,Hypertension Stage 1
+33,M,Hypertension Stage 1
+39,M,Elevated
+48,F,Hypertension Stage 1
+40,F,Hypertension Stage 1
+43,F,Hypertension Stage 2
+41,M,Hypertension Stage 1
+32,M,Normal
+43,F,Hypertension Stage 1
+37,F,Hypertension Stage 2
+59,F,Normal
+35,M,Normal
+34,M,Hypertension Stage 1
+57,M,Hypertension Stage 1
+32,F,Normal
+42,F,Hypertension Stage 2
+57,F,Hypertension Stage 2
+35,M,Hypertension Stage 1
+47,F,Hypertension Stage 1
+55,M,Normal
+32,M,Hypertension Stage 1
+34,M,Hypertension Stage 1
+43,F,Hypertension Stage 2
+31,F,Normal
+52,M,Hypertension Stage 1
+55,M,Hypertension Stage 2
+31,F,Hypertension Stage 2
+43,M,Hypertension Stage 2
+31,F,Hypertension Stage 2
+40,M,Hypertension Stage 1
+41,F,Hypertension Stage 2
+50,M,Normal
+34,F,Hypertension Stage 1
+35,M,Hypertension Stage 2
+54,F,Hypertension Stage 1
+39,F,Hypertension Stage 2
+42,F,Hypertension Stage 2
+48,M,Normal
+40,M,Normal
+48,M,Normal
+36,F,Hypertension Stage 1
+36,M,Normal
+51,F,Hypertension Stage 2
+48,M,Elevated
+49,F,Elevated
+33,F,Hypertension Stage 1
+37,M,Hypertension Stage 1
+58,F,Normal
+47,M,Normal
+30,F,Elevated
+50,M,Normal
+34,M,Hypertension Stage 2
+37,M,Normal
+45,M,Normal
+42,F,Hypertension Stage 1
+37,F,Hypertension Stage 2
+36,F,Hypertension Stage 2
+52,F,Hypertension Stage 2
+38,F,Hypertension Stage 1
+50,M,Hypertension Stage 2
+42,F,Hypertension Stage 2
+33,M,Hypertension Stage 1
+33,M,Hypertension Stage 2
+41,M,Hypertension Stage 1
+41,M,Hypertension Stage 1
+47,M,Hypertension Stage 1
+51,F,Hypertension Stage 1
+47,F,Hypertension Stage 1
+33,F,Hypertension Stage 1
+44,F,Hypertension Stage 1
+45,M,Hypertension Stage 2
+36,M,Hypertension Stage 1
+41,F,Elevated
+37,F,Hypertension Stage 1
+58,F,Hypertension Stage 1
+38,F,Hypertension Stage 2
+56,F,Normal
+34,F,Hypertension Stage 2
+59,F,Hypertension Stage 1
+58,M,Hypertension Stage 1
+51,F,Hypertension Stage 1
+41,M,Hypertension Stage 2
+32,F,Hypertension Stage 1
+41,M,Hypertension Stage 1
+35,F,Elevated
+36,M,Normal
+53,M,Hypertension Stage 2
+50,M,Hypertension Stage 2
+30,F,Hypertension Stage 1
+59,F,Normal
+39,M,Elevated
+35,F,Normal
+31,M,Hypertension Stage 1
+33,M,Hypertension Stage 2
+55,F,Hypertension Stage 1
+50,M,Hypertension Stage 1
+36,M,Hypertension Stage 2
+48,F,Elevated
+51,F,Hypertension Stage 2
+44,F,Hypertension Stage 2
+52,F,Normal
+34,F,Hypertension Stage 1
+35,F,Hypertension Stage 2
+37,F,Normal
+37,F,Hypertension Stage 1
+44,M,Hypertension Stage 1
+46,M,Normal
+43,F,Normal
+32,M,Hypertension Stage 2
+31,F,Normal
+50,F,Hypertension Stage 1
+32,M,Hypertension Stage 2
+55,F,Hypertension Stage 1
+60,M,Elevated
+33,F,Hypertension Stage 2
+33,M,Hypertension Stage 1
+36,M,Elevated
+32,F,Hypertension Stage 2
+37,F,Hypertension Stage 1
+54,M,Hypertension Stage 1
+60,F,Hypertension Stage 1
+53,M,Normal
+31,F,Hypertension Stage 2
+32,M,Normal
+46,M,Hypertension Stage 1
+55,F,Hypertension Stage 1
+40,M,Hypertension Stage 1
+56,M,Normal
+41,M,Hypertension Stage 1
+49,M,Hypertension Stage 1
+47,F,Normal
+56,F,Hypertension Stage 1
+32,M,Elevated
+55,F,Hypertension Stage 2
+34,M,Hypertension Stage 1
+34,F,Elevated
+41,F,Hypertension Stage 2
+47,M,Elevated
+32,M,Normal
+40,M,Elevated
+43,F,Hypertension Stage 1
+49,M,Hypertension Stage 2
+60,M,Hypertension Stage 1
+34,F,Normal
+30,M,Elevated
+42,M,Hypertension Stage 1
+37,M,Hypertension Stage 2
+48,M,Normal
+60,F,Hypertension Stage 1
+44,M,Elevated
+58,F,Hypertension Stage 1
+60,M,Hypertension Stage 1
+46,F,Hypertension Stage 1
+44,F,Hypertension Stage 2
+58,F,Normal
+41,M,Normal
+31,M,Elevated
+53,M,Hypertension Stage 1
+45,M,Hypertension Stage 2
+50,F,Hypertension Stage 1
+49,M,Hypertension Stage 1
+54,F,Normal
+35,M,Normal
+37,F,Hypertension Stage 1
+34,F,Hypertension Stage 2
+34,F,Hypertension Stage 1
+36,F,Hypertension Stage 1
+43,F,Normal
+55,M,Normal
+41,F,Normal
+39,M,Hypertension Stage 1
+58,M,Normal
+35,F,Normal
+41,F,Hypertension Stage 2
+51,M,Hypertension Stage 2
+52,F,Hypertension Stage 1
+51,M,Hypertension Stage 1
+49,F,Elevated
+37,F,Normal
+60,F,Normal
+31,F,Normal
+36,F,Hypertension Stage 1
+58,M,Hypertension Stage 1
+53,F,Elevated
+49,F,Hypertension Stage 1
+50,M,Hypertension Stage 1
+35,F,Hypertension Stage 2
+56,F,Hypertension Stage 1
+35,F,Hypertension Stage 2
+55,M,Normal
+40,F,Hypertension Stage 1
+37,F,Normal
+60,F,Hypertension Stage 2
+45,M,Normal
+44,M,Hypertension Stage 2
+53,M,Hypertension Stage 1
+30,F,Hypertension Stage 2
+50,M,Hypertension Stage 2
+31,M,Elevated
+43,M,Elevated
+55,M,Hypertension Stage 1
+31,F,Normal
+42,F,Hypertension Stage 2
+50,M,Elevated
+42,F,Hypertension Stage 2
+56,M,Hypertension Stage 2
+54,M,Hypertension Stage 1
+48,F,Normal
+44,M,Normal
+42,M,Elevated
+49,F,Hypertension Stage 2
+54,F,Hypertension Stage 2
+49,M,Hypertension Stage 2
+52,F,Normal
+54,M,Hypertension Stage 1
+51,F,Hypertension Stage 2
+45,F,Hypertension Stage 2
+43,M,Hypertension Stage 1
+37,F,Normal
+50,M,Hypertension Stage 2
+55,F,Hypertension Stage 2
+48,F,Normal
+48,M,Normal
+43,M,Hypertension Stage 1
+49,M,Normal
+40,F,Normal
+37,M,Hypertension Stage 2
+40,F,Hypertension Stage 2
+53,M,Hypertension Stage 2
+32,F,Normal
+47,M,Hypertension Stage 1
+46,F,Hypertension Stage 1
+42,M,Hypertension Stage 1
+41,M,Hypertension Stage 1
+39,M,Hypertension Stage 1
+56,M,Hypertension Stage 2
+38,F,Hypertension Stage 2
+32,M,Hypertension Stage 1
+32,M,Normal
+41,F,Hypertension Stage 2
+54,M,Hypertension Stage 1
+52,M,Hypertension Stage 2
+37,F,Hypertension Stage 1
+57,F,Hypertension Stage 1
+55,F,Normal
+42,F,Hypertension Stage 1
+47,F,Normal
+37,F,Normal
+42,M,Hypertension Stage 2
+47,F,Hypertension Stage 2
+38,M,Normal
+46,F,Hypertension Stage 1
+30,F,Hypertension Stage 2
+52,M,Hypertension Stage 1
+30,F,Hypertension Stage 2
+52,M,Hypertension Stage 1
+31,M,Hypertension Stage 1
+45,M,Normal
+46,F,Normal
+46,F,Normal
+56,F,Hypertension Stage 2
+35,F,Hypertension Stage 2
+46,M,Hypertension Stage 2
+34,F,Hypertension Stage 1
+32,M,Hypertension Stage 2
+40,M,Hypertension Stage 1
+34,F,Hypertension Stage 2
+56,F,Hypertension Stage 1
+46,F,Hypertension Stage 1
+43,M,Hypertension Stage 2
+43,F,Hypertension Stage 2
+32,M,Hypertension Stage 1
+48,F,Normal
+42,M,Elevated
+36,M,Normal
+43,F,Hypertension Stage 2
+50,F,Hypertension Stage 2
+59,M,Hypertension Stage 2
+34,M,Elevated
+52,M,Hypertension Stage 1
+36,M,Hypertension Stage 2
+33,M,Hypertension Stage 1
+59,F,Hypertension Stage 1
+52,M,Hypertension Stage 1
+50,M,Normal
+41,M,Normal
+47,M,Hypertension Stage 2
+56,F,Normal
+45,F,Hypertension Stage 2
+52,M,Elevated
+44,M,Hypertension Stage 2
+31,F,Hypertension Stage 1
+33,M,Normal
+53,M,Hypertension Stage 1
+57,F,Normal
+43,M,Normal
+58,F,Elevated
+56,M,Elevated
+34,F,Normal
+34,M,Normal
+53,F,Hypertension Stage 1
+59,M,Hypertension Stage 2
+38,F,Hypertension Stage 1
+42,M,Hypertension Stage 1
+55,M,Hypertension Stage 2
+57,M,Hypertension Stage 2
+51,M,Hypertension Stage 2
+57,F,Hypertension Stage 1
+34,F,Normal
+36,M,Hypertension Stage 2
+42,F,Normal
+35,F,Elevated
+48,M,Hypertension Stage 2
+53,M,Hypertension Stage 1
+52,F,Hypertension Stage 2
+45,M,Normal
+42,M,Elevated
+42,F,Normal
+58,F,Hypertension Stage 2
+48,F,Hypertension Stage 1
+54,M,Normal
+59,F,Hypertension Stage 1
+33,M,Hypertension Stage 2
+34,F,Normal
+30,F,Normal
+37,F,Hypertension Stage 2
+39,M,Hypertension Stage 2
+48,M,Normal
+60,M,Normal
+44,M,Normal
+40,M,Normal
+56,F,Hypertension Stage 2
+59,M,Hypertension Stage 2
+44,M,Hypertension Stage 2
+55,M,Hypertension Stage 2
+45,F,Hypertension Stage 1
+31,F,Hypertension Stage 1
+33,M,Normal
+52,F,Hypertension Stage 1
+50,F,Hypertension Stage 1
+34,F,Hypertension Stage 1
+56,F,Hypertension Stage 1
+39,F,Hypertension Stage 2
+48,M,Hypertension Stage 2
+52,F,Normal
+41,F,Hypertension Stage 1
+58,F,Hypertension Stage 2
+44,M,Hypertension Stage 1
+36,M,Normal
+53,F,Normal
+46,F,Hypertension Stage 1
+56,M,Hypertension Stage 2
+47,M,Hypertension Stage 2
+55,F,Hypertension Stage 1
+60,F,Hypertension Stage 1
+37,F,Hypertension Stage 1
+51,M,Hypertension Stage 2
+31,M,Hypertension Stage 2
+49,F,Hypertension Stage 1
+48,F,Elevated
+48,F,Hypertension Stage 2
+40,F,Hypertension Stage 2
+31,F,Hypertension Stage 1
+57,M,Hypertension Stage 2
+33,F,Hypertension Stage 1
+47,F,Hypertension Stage 1
+60,M,Hypertension Stage 1
+53,F,Hypertension Stage 1
+44,F,Hypertension Stage 2
+37,M,Hypertension Stage 1
+60,F,Hypertension Stage 2
+31,M,Normal
+33,F,Hypertension Stage 1
+38,M,Hypertension Stage 1
+39,F,Normal
+49,F,Hypertension Stage 1
+40,F,Hypertension Stage 2
+36,F,Hypertension Stage 1
+32,M,Hypertension Stage 2
+40,M,Normal
+55,M,Normal
+36,F,Hypertension Stage 2
+41,F,Hypertension Stage 1
+59,F,Hypertension Stage 1
+56,M,Hypertension Stage 1
+47,F,Hypertension Stage 1
+37,M,Hypertension Stage 2
+57,F,Hypertension Stage 2
+76,M,Hypertension Stage 1
+62,F,Hypertension Stage 2
+60,M,Hypertension Stage 2
+44,F,Hypertension Stage 2
+67,M,Hypertension Stage 2
+50,M,Hypertension Stage 2
+38,F,Hypertension Stage 1
+77,M,Hypertension Stage 2
+51,M,Hypertension Stage 2
+42,M,Hypertension Stage 2
+52,F,Hypertension Stage 2
+60,F,Hypertension Stage 2
+43,F,Hypertension Stage 2
+65,M,Hypertension Stage 1
+67,F,Hypertension Stage 2
+52,M,Hypertension Stage 1
+28,F,Hypertension Stage 1
+79,M,Hypertension Stage 2
+54,F,Hypertension Stage 2
+79,M,Hypertension Stage 2
+27,M,Hypertension Stage 2
+70,F,Hypertension Stage 2
+37,F,Hypertension Stage 1
+43,M,Normal
+31,M,Hypertension Stage 2
+30,M,Hypertension Stage 2
+72,F,Hypertension Stage 1
+37,M,Elevated
+46,M,Normal
+70,M,Hypertension Stage 2
+54,M,Hypertension Stage 2
+61,M,Hypertension Stage 1
+76,M,Hypertension Stage 2
+25,M,Hypertension Stage 2
+39,F,Hypertension Stage 2
+43,F,Hypertension Stage 2
+34,F,Hypertension Stage 2
+69,F,Hypertension Stage 2
+49,F,Hypertension Stage 2
+51,F,Hypertension Stage 1
+44,F,Hypertension Stage 2
+64,M,Hypertension Stage 2
+72,F,Hypertension Stage 2
+34,M,Hypertension Stage 2
+60,F,Hypertension Stage 2
+59,F,Normal
+60,M,Hypertension Stage 2
+32,F,Hypertension Stage 1
+70,M,Hypertension Stage 2
+41,M,Hypertension Stage 2
+79,F,Hypertension Stage 2
+64,F,Hypertension Stage 1
+37,F,Normal
+58,M,Hypertension Stage 2
+68,F,Hypertension Stage 1
+62,F,Hypertension Stage 2
+36,F,Normal
+58,F,Normal
+62,F,Hypertension Stage 2
+44,M,Hypertension Stage 2
+52,M,Hypertension Stage 1
+58,F,Hypertension Stage 1
+73,M,Hypertension Stage 2
+48,M,Normal
+44,F,Hypertension Stage 1
+48,F,Hypertension Stage 2
+75,F,Hypertension Stage 1
+41,F,Hypertension Stage 2
+28,M,Hypertension Stage 2
+75,F,Hypertension Stage 2
+32,M,Hypertension Stage 1
+43,M,Hypertension Stage 2
+71,F,Hypertension Stage 2
+45,M,Hypertension Stage 1
+33,M,Hypertension Stage 2
+57,F,Elevated
+53,F,Hypertension Stage 2
+47,F,Hypertension Stage 2
+67,F,Hypertension Stage 2
+33,F,Hypertension Stage 2
+64,F,Hypertension Stage 2
+76,F,Normal
+44,M,Hypertension Stage 1
+30,F,Normal
+51,F,Hypertension Stage 2
+72,M,Hypertension Stage 2
+59,F,Hypertension Stage 2
+34,M,Hypertension Stage 1
+70,F,Hypertension Stage 1
+30,M,Hypertension Stage 2
+33,M,Hypertension Stage 2
+65,F,Hypertension Stage 2
+34,F,Hypertension Stage 1
+35,F,Normal
+74,M,Hypertension Stage 1
+52,M,Hypertension Stage 1
+27,F,Hypertension Stage 1
+45,M,Hypertension Stage 1
+67,F,Hypertension Stage 1
+58,M,Hypertension Stage 2
+49,M,Hypertension Stage 2
+66,M,Hypertension Stage 2
+63,M,Hypertension Stage 2
+79,M,Hypertension Stage 2
+76,F,Hypertension Stage 2
+46,M,Hypertension Stage 1
+52,F,Hypertension Stage 2
+74,F,Hypertension Stage 1
+60,F,Hypertension Stage 2
+57,M,Hypertension Stage 2
+43,M,Hypertension Stage 2
+33,F,Hypertension Stage 2
+72,F,Hypertension Stage 1
+38,M,Hypertension Stage 2
+57,F,Hypertension Stage 2
+27,M,Hypertension Stage 2
+38,F,Hypertension Stage 2
+29,F,Hypertension Stage 2
+45,M,Hypertension Stage 2
+37,M,Normal
+34,F,Hypertension Stage 1
+72,F,Hypertension Stage 2
+75,M,Hypertension Stage 2
+27,M,Hypertension Stage 2
+60,M,Hypertension Stage 2
+70,F,Elevated
+55,M,Hypertension Stage 2
+79,F,Normal
+51,M,Normal
+61,M,Hypertension Stage 2
+30,M,Hypertension Stage 2
+67,F,Hypertension Stage 2
+55,M,Hypertension Stage 2
+47,M,Hypertension Stage 2
+78,M,Hypertension Stage 2
+78,F,Hypertension Stage 2
+72,F,Normal
+56,M,Hypertension Stage 2
+60,F,Hypertension Stage 2
+41,F,Hypertension Stage 2
+66,M,Normal
+48,M,Hypertension Stage 1
+38,M,Hypertension Stage 2
+49,M,Hypertension Stage 1
+59,M,Hypertension Stage 2
+30,M,Hypertension Stage 2
+26,M,Hypertension Stage 2
+76,M,Hypertension Stage 1
+75,M,Hypertension Stage 2
+76,F,Hypertension Stage 2
+33,M,Hypertension Stage 2
+64,M,Hypertension Stage 2
+31,M,Normal
+79,M,Hypertension Stage 1
+58,F,Hypertension Stage 2
+36,F,Hypertension Stage 1
+43,M,Hypertension Stage 2
+30,M,Hypertension Stage 2
+58,M,Hypertension Stage 2
+76,M,Normal
+50,F,Hypertension Stage 2
+50,M,Hypertension Stage 2
+29,F,Hypertension Stage 2
+46,M,Hypertension Stage 1
+53,M,Hypertension Stage 2
+74,M,Normal
+63,M,Hypertension Stage 2
+76,M,Hypertension Stage 2
+31,M,Hypertension Stage 1
+59,F,Hypertension Stage 2
+48,M,Hypertension Stage 2
+25,M,Hypertension Stage 1
+67,M,Elevated
+29,F,Hypertension Stage 1
+66,M,Hypertension Stage 2
+79,F,Hypertension Stage 1
+42,M,Hypertension Stage 2
+43,M,Hypertension Stage 2
+79,M,Hypertension Stage 2
+64,F,Hypertension Stage 1
+33,M,Hypertension Stage 2
+51,F,Hypertension Stage 2
+43,F,Normal
+54,F,Hypertension Stage 2
+49,M,Hypertension Stage 2
+72,F,Hypertension Stage 2
+39,M,Hypertension Stage 2
+32,M,Normal
+31,F,Hypertension Stage 2
+31,M,Hypertension Stage 2
+64,M,Hypertension Stage 2
+33,F,Elevated
+70,F,Elevated
+75,F,Hypertension Stage 1
+64,M,Hypertension Stage 1
+36,M,Hypertension Stage 2
+73,M,Hypertension Stage 2
+59,F,Hypertension Stage 2
+75,M,Elevated
+39,M,Hypertension Stage 2
+55,M,Hypertension Stage 2
+30,F,Hypertension Stage 2
+37,F,Elevated
+68,F,Hypertension Stage 2
+39,M,Normal
+38,M,Hypertension Stage 2
+53,M,Hypertension Stage 2
+46,F,Hypertension Stage 2
+33,M,Hypertension Stage 2
+55,F,Hypertension Stage 2
+51,F,Hypertension Stage 2
+73,M,Hypertension Stage 2
+28,F,Hypertension Stage 2
+66,F,Hypertension Stage 2
+74,F,Hypertension Stage 2
+44,M,Hypertension Stage 2
+61,F,Hypertension Stage 2
+32,M,Hypertension Stage 2
+79,M,Hypertension Stage 2
+29,F,Hypertension Stage 2
+75,F,Hypertension Stage 1
+39,M,Hypertension Stage 2
+49,F,Hypertension Stage 2
+47,F,Hypertension Stage 1
+44,F,Hypertension Stage 2
+45,M,Hypertension Stage 2
+30,F,Hypertension Stage 2
+39,M,Hypertension Stage 2
+38,F,Hypertension Stage 2
+72,F,Hypertension Stage 1
+40,F,Hypertension Stage 2
+38,M,Hypertension Stage 1
+30,M,Hypertension Stage 1
+32,M,Hypertension Stage 1
+69,M,Hypertension Stage 1
+31,M,Hypertension Stage 2
+25,M,Normal
+38,M,Hypertension Stage 1
+43,F,Hypertension Stage 1
+55,M,Hypertension Stage 2
+41,F,Elevated
+62,F,Hypertension Stage 1
+74,M,Hypertension Stage 2
+61,M,Hypertension Stage 1
+50,F,Hypertension Stage 1
+44,F,Hypertension Stage 2
+52,F,Hypertension Stage 2
+77,F,Hypertension Stage 2
+42,F,Hypertension Stage 2
+30,F,Hypertension Stage 1
+35,M,Normal
+25,M,Hypertension Stage 2
+32,F,Hypertension Stage 1
+47,M,Normal
+29,F,Hypertension Stage 2
+33,F,Hypertension Stage 2
+38,M,Hypertension Stage 2
+79,F,Hypertension Stage 1
+56,F,Hypertension Stage 2
+50,F,Hypertension Stage 2
+73,M,Normal
+68,F,Hypertension Stage 2
+51,M,Hypertension Stage 2
+46,F,Hypertension Stage 2
+46,M,Hypertension Stage 2
+70,F,Hypertension Stage 2
+35,F,Hypertension Stage 2
+68,F,Hypertension Stage 2
+47,M,Hypertension Stage 2
+29,M,Hypertension Stage 2
+65,F,Hypertension Stage 1
+61,M,Hypertension Stage 2
+39,M,Hypertension Stage 1
+41,F,Hypertension Stage 2
+26,F,Hypertension Stage 2
+26,F,Hypertension Stage 2
+68,F,Hypertension Stage 1
+33,M,Hypertension Stage 2
+75,F,Hypertension Stage 2
+75,M,Hypertension Stage 2
+63,M,Normal
+38,F,Normal
+76,F,Hypertension Stage 2
+39,F,Hypertension Stage 2
+42,F,Normal
+26,F,Hypertension Stage 2
+26,M,Normal
+57,F,Hypertension Stage 1
+52,F,Hypertension Stage 2
+65,M,Hypertension Stage 1
+58,M,Hypertension Stage 2
+40,M,Hypertension Stage 2
+30,F,Hypertension Stage 2
+25,F,Hypertension Stage 2
+25,F,Hypertension Stage 2
+68,F,Normal
+55,M,Hypertension Stage 2
+76,M,Normal
+28,F,Hypertension Stage 1
+64,F,Normal
+31,M,Hypertension Stage 1
+77,M,Hypertension Stage 2
+54,F,Hypertension Stage 1
+36,F,Hypertension Stage 2
+27,F,Hypertension Stage 2
+79,F,Hypertension Stage 2
+29,F,Hypertension Stage 2
+71,F,Hypertension Stage 2
+30,F,Normal
+41,M,Hypertension Stage 2
+67,M,Hypertension Stage 2
+60,F,Hypertension Stage 1
+63,M,Normal
+64,M,Hypertension Stage 2
+49,M,Hypertension Stage 2
+66,F,Hypertension Stage 2
+31,F,Hypertension Stage 2
+64,F,Hypertension Stage 1
+45,M,Hypertension Stage 1
+61,M,Hypertension Stage 2
+59,F,Hypertension Stage 2
+59,F,Normal
+73,F,Hypertension Stage 1
+56,M,Hypertension Stage 2
+35,F,Hypertension Stage 2
+35,F,Hypertension Stage 2
+72,F,Hypertension Stage 2
+72,F,Hypertension Stage 2
+25,M,Normal
+79,F,Hypertension Stage 1
+59,F,Hypertension Stage 1
+39,F,Hypertension Stage 2
+70,F,Hypertension Stage 2
+29,F,Hypertension Stage 2
+39,F,Hypertension Stage 1
+26,M,Normal
+41,F,Normal
+63,F,Hypertension Stage 2
+66,M,Hypertension Stage 2
+26,F,Hypertension Stage 2
+58,F,Hypertension Stage 2
+57,F,Hypertension Stage 2
+72,F,Hypertension Stage 2
+71,M,Hypertension Stage 2
+68,M,Hypertension Stage 2
+60,F,Hypertension Stage 2
+26,F,Hypertension Stage 2
+42,M,Hypertension Stage 2
+30,M,Normal
+54,M,Hypertension Stage 2
+63,M,Normal
+60,M,Hypertension Stage 1
+46,F,Hypertension Stage 2
+33,M,Hypertension Stage 1
+39,F,Hypertension Stage 2
+46,F,Hypertension Stage 2
+54,F,Hypertension Stage 2
+27,M,Hypertension Stage 2
+31,M,Hypertension Stage 2
+46,F,Hypertension Stage 2
+70,F,Elevated
+69,F,Hypertension Stage 2
+54,F,Hypertension Stage 1
+52,M,Normal
+56,F,Elevated
+75,M,Hypertension Stage 1
+76,M,Hypertension Stage 2
+25,F,Hypertension Stage 2
+49,F,Hypertension Stage 2
+63,M,Hypertension Stage 1
+26,F,Normal
+28,M,Hypertension Stage 1
+52,F,Hypertension Stage 2
+64,M,Hypertension Stage 2
+31,M,Normal
+62,M,Hypertension Stage 2
+64,F,Hypertension Stage 2
+27,M,Hypertension Stage 2
+49,F,Hypertension Stage 2
+56,M,Hypertension Stage 2
+60,M,Hypertension Stage 2
+25,F,Hypertension Stage 2
+36,F,Normal
+26,F,Normal
+78,M,Hypertension Stage 1
+41,F,Elevated
+60,M,Hypertension Stage 2
+52,M,Hypertension Stage 2
+38,M,Hypertension Stage 2
+27,F,Hypertension Stage 1
+40,F,Hypertension Stage 2
+68,M,Hypertension Stage 1
+30,F,Hypertension Stage 1
+59,F,Hypertension Stage 2
+40,M,Hypertension Stage 2
+55,M,Elevated
+67,F,Hypertension Stage 2
+67,F,Hypertension Stage 2
+75,M,Hypertension Stage 2
+44,F,Hypertension Stage 2
+62,F,Hypertension Stage 2
+45,F,Hypertension Stage 2
+50,M,Hypertension Stage 2
+43,M,Normal
+47,M,Normal
+57,M,Hypertension Stage 2
+30,F,Hypertension Stage 2
+79,M,Hypertension Stage 2
+55,M,Hypertension Stage 2
+28,M,Hypertension Stage 2
+75,F,Hypertension Stage 2
+26,F,Hypertension Stage 1
+47,F,Hypertension Stage 1
+62,F,Hypertension Stage 1
+64,M,Hypertension Stage 2
+50,M,Hypertension Stage 2
+67,M,Hypertension Stage 2
+57,M,Hypertension Stage 2
+77,M,Hypertension Stage 2
+69,M,Hypertension Stage 2
+51,M,Hypertension Stage 2
+31,F,Hypertension Stage 2
+62,M,Hypertension Stage 2
+62,M,Hypertension Stage 1
+55,M,Hypertension Stage 1
+47,M,Hypertension Stage 2
+26,M,Hypertension Stage 1
+46,M,Hypertension Stage 2
+67,F,Hypertension Stage 2
+49,M,Hypertension Stage 1
+67,F,Hypertension Stage 2
+49,M,Hypertension Stage 2
+75,F,Hypertension Stage 1
+58,F,Hypertension Stage 2
+37,F,Hypertension Stage 2
+71,M,Hypertension Stage 2
+41,M,Elevated
+67,F,Hypertension Stage 2
+44,F,Hypertension Stage 2
+73,F,Hypertension Stage 2
+39,M,Elevated
+29,M,Hypertension Stage 2
+55,M,Hypertension Stage 2
+46,M,Hypertension Stage 1
+46,F,Normal
+76,F,Hypertension Stage 1
+75,F,Hypertension Stage 1
+41,F,Hypertension Stage 2
+69,M,Hypertension Stage 1
+62,F,Hypertension Stage 2
+35,M,Hypertension Stage 2
+70,F,Hypertension Stage 2
+33,F,Normal
+41,M,Hypertension Stage 1
+28,F,Hypertension Stage 2
+75,F,Hypertension Stage 1
+51,M,Hypertension Stage 2
+64,M,Hypertension Stage 2
+66,M,Hypertension Stage 2
+64,F,Hypertension Stage 2
+57,M,Hypertension Stage 2
+54,F,Hypertension Stage 2
+29,F,Hypertension Stage 1
+52,M,Hypertension Stage 2
+72,F,Hypertension Stage 2
+65,M,Hypertension Stage 1
+25,F,Hypertension Stage 2
+71,M,Hypertension Stage 2
+50,M,Hypertension Stage 2
+50,M,Hypertension Stage 1
+57,F,Hypertension Stage 2
+31,F,Hypertension Stage 1
+74,F,Hypertension Stage 1
+32,F,Hypertension Stage 2
+40,M,Hypertension Stage 1
+67,M,Hypertension Stage 1
+30,F,Hypertension Stage 2
+79,M,Hypertension Stage 1
+62,F,Hypertension Stage 2
+47,M,Hypertension Stage 2
+33,F,Hypertension Stage 2
+27,F,Hypertension Stage 1
+59,F,Hypertension Stage 2
+25,M,Hypertension Stage 1
+68,M,Hypertension Stage 2
+52,F,Hypertension Stage 2
+63,M,Hypertension Stage 1
+65,F,Hypertension Stage 1
+62,F,Hypertension Stage 1
+30,F,Hypertension Stage 2
+44,F,Normal
+43,F,Hypertension Stage 2
+48,F,Hypertension Stage 2
+46,M,Hypertension Stage 2
+47,M,Hypertension Stage 2
+32,M,Hypertension Stage 2
+48,F,Hypertension Stage 1
+49,F,Hypertension Stage 2
+30,M,Hypertension Stage 1
+50,F,Normal
+69,F,Normal
+54,M,Hypertension Stage 1
+53,F,Hypertension Stage 2
+29,M,Hypertension Stage 2
+48,F,Normal
+41,F,Hypertension Stage 1
+63,M,Hypertension Stage 2
+40,F,Normal
+78,F,Hypertension Stage 2
+39,M,Hypertension Stage 2
+71,M,Normal
+78,F,Hypertension Stage 1

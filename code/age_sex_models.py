@@ -1,31 +1,74 @@
 import pandas as pd
 import numpy as np
-from sklearn.linear_model import LinearRegression, Lasso, Ridge, LogisticRegression
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error, r2_score, accuracy_score, roc_auc_score
 from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
+from sklearn.tree import DecisionTreeClassifier, plot_tree
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 
-data_cleaned = pd.read_csv('/workspaces/Final-Project/code/CVD_Cleaned.csv')
+data = pd.read_csv('/workspaces/Final-Project/data/CVD Dataset.csv')
 
-def get_blood_pressure_category(systolic_bp, diastolic_bp):
-    
-    if systolic_bp < 120 and diastolic_bp < 80:
-        return 'Normal'
-    elif 120 <= systolic_bp <= 129 and diastolic_bp < 80:
-        return 'Elevated'
-    elif (130 <= systolic_bp <= 139) or (80 <= diastolic_bp <= 89):
-        return 'High (Stage 1)'
-    elif (systolic_bp >= 140) or (diastolic_bp >= 90):
-        return 'High (Stage 2)'
-    elif (systolic_bp > 180) or (diastolic_bp > 120):
-        return 'Hypertensive Crisis'
-    else:
-        return 'Undefined'
+columns_of_interest = ['Age', 'Sex', 'Blood Pressure Category']
+data_cleaned = data[columns_of_interest].copy()
+data_cleaned = data_cleaned.replace({None: np.nan, '': np.nan})
 
-data_cleaned['Blood Pressure Category'] = data_cleaned.apply(lambda row: get_blood_pressure_category(row['Systolic BP'], row['Diastolic BP']), axis=1)
+# Drop rows where Age or Blood Pressure Category are NaN
+data_cleaned.dropna(subset=['Age', 'Blood Pressure Category'], inplace=True)
 
+# Convert Age to int64
+data_cleaned['Age'] = data_cleaned['Age'].astype('int64')
+
+# Final data info and preview
+print(data_cleaned.info())
 print(data_cleaned.head())
+
+# Save cleaned dataframe to CSV
+data_cleaned.to_csv('CVD_Cleaned.csv', index=False)
+# ________________________________________________________________________________
+
+
+
+# Models
+# Prepare data
+X = data_cleaned[['Age', 'Sex']].copy()
+
+# Encode Sex column to numeric values
+sex_encoder = LabelEncoder()
+X['Sex'] = sex_encoder.fit_transform(X['Sex'])
+
+y = data_cleaned['Blood Pressure Category']
+
+# Encode target labels
+le = LabelEncoder()
+y_encoded = le.fit_transform(y)
+
+# Split data
+X_train, X_test, y_train, y_test = train_test_split(X, y_encoded, test_size=0.3, random_state=42)
+
+# Decision Tree
+dt = DecisionTreeClassifier(random_state=42)
+dt.fit(X_train, y_train)
+y_pred_dt = dt.predict(X_test)
+
+print("Decision Tree Classification Report:")
+print(classification_report(y_test, y_pred_dt, target_names=le.classes_))
+
+plt.figure(figsize=(12,8))
+plot_tree(dt, feature_names=X.columns, class_names=le.classes_, filled=True)
+plt.show()
+
+# Random forest
+rf = RandomForestClassifier(random_state=42, n_estimators=100)
+rf.fit(X_train, y_train)
+y_pred_rf = rf.predict(X_test)
+
+print("Random Forest Classification Report:")
+print(classification_report(y_test, y_pred_rf, target_names=le.classes_))
+
+# Feature Iportance
+importances = rf.feature_importances_
+plt.barh(X.columns, importances)
+plt.title('Random Forest Feature Importance')
+plt.show()
